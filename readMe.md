@@ -1,5 +1,10 @@
-# MS1 Project | Custom Surfboard Builder
-<!--Add live project here-->
+# MS1 Project | Low Tide Surf Club | Custom Surfboard Builder
+
+<!--Add live link project here-->
+
+This is the main marketing and product ordering page for a fictional company who specialise in building custom surfboards
+based in Cornwall, UK. The site will be responsive and accessible on all devices, easy to navigate, and enjoyable to use.
+
 ## Table of contents
 ### 1. User Stories
 ### 2. Design
@@ -11,8 +16,8 @@
 ### 8. Credits
 
 ## User Experience (UX)
-### -User Stories
-####    -First Time Visitor Goals
+### - User Stories
+####    - First Time Visitor Goals
 
             a. As a first time visitor, I want to gain understanding of the purpose of the site and the intentions of the
             business. Including explanative information in case of not having a strong understanding of the product.
@@ -24,7 +29,7 @@
             right decision, I would expect to find these not only through social media links but also a gallery page. Also
             providing customer testimonials would enhance this.
 
-####    -Returning Visitor Goals
+####    - Returning Visitor Goals
 
             a. As a returning visitor, I want to be able to easily order a product custom to my specifications in a
             reasonably quick manor.
@@ -35,7 +40,7 @@
             c. As a returning visitor, I want to be able to find out further information about the company and brand. This
             included new products, design and background history.
 
-####    -Frequent Visitor Goals
+####    - Frequent Visitor Goals
 
             a. As a frequent visitor, I want to easily be able to sign up to a newsletter so that I always find out about 
             upcoming changes/information via email.
@@ -47,12 +52,14 @@
             multiple platforms.
 
 ## Design
-###     -Colour Scheme
+###     - Colour Scheme
 
-            -The main colours used will be very simnplistic and tonal, using ivory, charcoal and black.
+            - The main colours used will be very simplistic and tonal, using ivory, charcoal and black.
+            - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
+            away from the imagery on the site.
 
-###     -Typography
+###     - Typography
 
-###     -Imagery
+###     - Imagery
 
-###  -Wireframes
+## Wireframes
