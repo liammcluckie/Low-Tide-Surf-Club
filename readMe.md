@@ -61,7 +61,7 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 
 ###     - Typography
 
-            - There will be two similar font types used throughout the website. The 'Comfortaa' font for the logo and headings 
+            - There will be two similar font types used throughout the website. The 'Comfortaa' font for the headings 
             with a Sans Serif fallback font if for any reason the font isn't imported correctly or a certain browser doesn't support it. 
             The font primarily used for paragraph text will be 'Inconsolata' with the same fallback font of  Sans Serif.
             
@@ -87,6 +87,13 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 
             - The imagery used will be de-saturated in colour and the main focal will be on the products and lifestyle based around these. 
             The de-saturation in colour will fit in with the rest of the simple greyscale colours used throughout the rest of the website.
+
+###     - Logo
+
+            - The logo for site was created using the same Sans Serif style font through an online application called 
+            [Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
+            and was designed in a clean, and simple way that aesthetically works well but alse follows visual hierarchy.
+
 
 ## Wireframes
 
