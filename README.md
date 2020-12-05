@@ -1,45 +1,111 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# MS1 Project | Low Tide Surf Club | Custom Surfboard Builder
 
-Welcome USER_NAME,
+<!--Add live link project here-->
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This is the main marketing and product ordering page for a fictional company who specialise in building custom surfboards
+based in Cornwall, UK. The site will be responsive and accessible on all devices, easy to navigate, and enjoyable to use.
 
-## Gitpod Reminders
+## Table of contents
+### 1. User Stories
+### 2. Design
+### 3. Wireframes
+### 4. Features
+### 5. Technologies Used
+### 6. Testing
+### 7. Deployment
+### 8. Credits
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## User Experience (UX)
+### User Stories
+- First Time Visitor Goals
 
-`python3 -m http.server`
+    a. As a first time visitor, I want to gain understanding of the purpose of the site and the intentions of the
+    business. Including explanative information in case of not having a strong understanding of the product.
 
-A blue button should appear to click: *Make Public*,
+    b. As a first time visitor, I want to be able to easily find the product information that I visited the site for.
+    Also have an enjoyable experience aesthetically and find using the websites features simple.
+            
+    c. As a first time visitor, I want to look for previous products created to ensure that using this company is the
+    right decision, I would expect to find these not only through social media links but also a gallery page. Also
+            providing customer testimonials would enhance this.
 
-Another blue button should appear to click: *Open Browser*.
+- Returning Visitor Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    a. As a returning visitor, I want to be able to easily order a product custom to my specifications in a
+    reasonably quick manor.
 
-A blue button should appear to click: *Make Public*,
+    b. As a returning visitor, I want to be able to find alternative ways to contact the company other than the order
+    form. This is in case of needing to alter my order, or to request an update.
 
-Another blue button should appear to click: *Open Browser*.
+    c. As a returning visitor, I want to be able to find out further information about the company and brand. This
+    included new products, design and background history.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- Frequent Visitor Goals
 
-## Updates Since The Instructional Video
+    a. As a frequent visitor, I want to easily be able to sign up to a newsletter so that I always find out about 
+    upcoming changes/information via email.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+    b. As a frequent visitor, I want to be able to create an account so that my order history and details are easily 
+    accessed for use in future orders.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    c. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
+    multiple platforms.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Design
+### Colour Scheme
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+- The main colours used will be greyscale and very simplistic, using ivory, charcoal and black.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
+            away from the imagery on the site.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Typography
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- There will be two similar font types used throughout the website. The 'Comfortaa' font for the headings 
+with a Sans Serif fallback font if for any reason the font isn't imported correctly or a certain browser doesn't support it. 
+The font primarily used for paragraph text will be 'Inconsolata' with the same fallback font of  Sans Serif.
+            
+ - 'Comfortaa' is a clean, stylish, and aesthetically pleasing font that will tie in well with the styling of the rest of
+the website. This font works well for headings therefore creating consistency without effecting the sites style.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- 'Inconsolata' is not to dissimilar from 'Comfortaa' so again it creates consistency, however, there is enough of a difference
+that it breaks up text sections and overall makes the website easy to read and aesthetically pleasing.
 
---------
+### Imagery
 
-Happy coding!
+- The imagery will be very important on the website, I plan to use images to convey information about the company and
+products. The first thing visitors will see when the site loads will be a large jumbotron image with a call to action 
+button included. The reason for this is to immediately direct the user to the key order form page.
+
+- I also plan to use imagery on the modal that prompts visitors to sign up to the newsletter.
+
+- One of the website pages will be a gallery section where I will use imagery to tell a story, primarily informing the visitor 
+about what the business creates featuring previous products. As well as, showing the design process.
+
+- There will also be icon imagery included in the site, however, this will be minimal in order to still keep the aesthetic style
+consistent.
+
+- The imagery used will be de-saturated in colour and the main focal will be on the products and lifestyle based around these. 
+The de-saturation in colour will fit in with the rest of the simple greyscale colours used throughout the rest of the website.
+
+### Logo
+
+- The logo for site was created using the same Sans Serif style font through an online application called 
+[Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
+and was designed in a clean, and simple way that aesthetically works well but alse follows visual hierarchy.
+
+
+## Wireframes
+
+## Features
+
+## Technologies Used
+
+### Languages Used
+
+### Frameworks, Libraries & Programs Used
+
+1. [Hatchful](https://hatchful.shopify.com/)
+     - Hatchful was used to generate the logo, which was then edited to my specifics within their website.
+
+## Testing
