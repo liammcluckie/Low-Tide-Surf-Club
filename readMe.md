@@ -89,3 +89,16 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
             The de-saturation in colour will fit in with the rest of the simple greyscale colours used throughout the rest of the website.
 
 ## Wireframes
+
+## Features
+
+## Technologies Used
+
+###     - Languages Used
+
+###     - Frameworks, Libraries & Programs Used
+
+            1. [Hatchful](https://hatchful.shopify.com/)
+                - Hatchful was used to generate the logo, which was then edited to my specifics within their website.
+
+## Testing
