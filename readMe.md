@@ -54,7 +54,7 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 ## Design
 ###     - Colour Scheme
 
-            - The main colours used will be very simplistic and tonal, using ivory, charcoal and black.
+            - The main colours used will be greyscale and very simplistic, using ivory, charcoal and black.
 
             - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
             away from the imagery on the site.
@@ -72,5 +72,20 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
             that it breaks up text sections and overall makes the website easy to read and aesthetically pleasing.
 
 ###     - Imagery
+
+            - The imagery will be very important on the website, I plan to use images to convey information about the company and
+            products. The first thing visitors will see when the site loads will be a large jumbotron image with a call to action 
+            button included. The reason for this is to immediately direct the user to the key order form page.
+
+            - I also plan to use imagery on the modal that prompts visitors to sign up to the newsletter.
+
+            - One of the website pages will be a gallery section where I will use imagery to tell a story, primarily informing the visitor 
+            about what the business creates featuring previous products. As well as, showing the design process.
+
+            - There will also be icon imagery included in the site, however, this will be minimal in order to still keep the aesthetic style
+            consistent.
+
+            - The imagery used will be de-saturated in colour and the main focal will be on the products and lifestyle based around these. 
+            The de-saturation in colour will fit in with the rest of the simple greyscale colours used throughout the rest of the website.
 
 ## Wireframes
