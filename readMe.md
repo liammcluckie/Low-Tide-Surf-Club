@@ -55,10 +55,21 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 ###     - Colour Scheme
 
             - The main colours used will be very simplistic and tonal, using ivory, charcoal and black.
+
             - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
             away from the imagery on the site.
 
 ###     - Typography
+
+            - There will be two similar font types used throughout the website. The 'Comfortaa' font for the logo and headings 
+            with a Sans Serif fallback font if for any reason the font isn't imported correctly or a certain browser doesn't support it. 
+            The font primarily used for paragraph text will be 'Inconsolata' with the same fallback font of  Sans Serif.
+            
+            - 'Comfortaa' is a clean, stylish, and aesthetically pleasing font that will tie in well with the styling of the rest of
+            the website. This font works well for headings therefore creating consistency without effecting the sites style.
+
+            - 'Inconsolata' is not to dissimilar from 'Comfortaa' so again it creates consistency, however, there is enough of a difference
+            that it breaks up text sections and overall makes the website easy to read and aesthetically pleasing.
 
 ###     - Imagery
 
