@@ -97,6 +97,12 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 ## Wireframes
 
+- [Website desktop wireframe](assets/wireframes/ltsc-desktop.pdf)
+
+- [Website tablet wireframe](assets/wireframes/ltsc-tablet.pdf)
+
+- [Website mobile wireframe](assets/wireframes/ltsc-mobile.pdf)
+
 ## Features
 
 ## Technologies Used
