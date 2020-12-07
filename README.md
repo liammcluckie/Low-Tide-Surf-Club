@@ -97,21 +97,35 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 ## Wireframes
 
-- [Website desktop wireframe](assets/wireframes/ltsc-desktop.pdf)
+- [Website desktop wireframes](assets/wireframes/ltsc-desktop.pdf)
 
-- [Website tablet wireframe](assets/wireframes/ltsc-tablet.pdf)
+- [Website tablet wireframes](assets/wireframes/ltsc-tablet.pdf)
 
-- [Website mobile wireframe](assets/wireframes/ltsc-mobile.pdf)
+- [Website mobile wireframes](assets/wireframes/ltsc-mobile.pdf)
 
 ## Features
+
+- Responsive on all devices and screen sizes.
+
+- Modal pop up window open when website first loads.
+
+- Small interactive feautures such as enlargement when hovering over navigation bar.
 
 ## Technologies Used
 
 ### Languages Used
 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
 ### Frameworks, Libraries & Programs Used
 
 1. [Hatchful](https://hatchful.shopify.com/)
      - Hatchful was used to generate the logo, which was then edited to my specifics within their website.
+
+2. [Balsamiq](https://balsamiq.com/)
+    - The Balsamiq application was used to create wireframes for each website page on various device screen
+    sizes.
 
 ## Testing
