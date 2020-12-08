@@ -1,12 +1,23 @@
-# MS1 Project | Low Tide Surf Club | Custom Surfboard Builder
+# Low Tide Surf Club | Custom Surfboards Website
+
+<!--Add images of site on devices here-->
 
 <!--Add live link project here-->
 
+## Overview
+
 This is the main marketing and product ordering page for a fictional company who specialise in building custom surfboards
-based in Cornwall, UK. The site will be responsive and accessible on all devices, easy to navigate, and enjoyable to use.
+based in Cornwall, UK. The site will be responsive and accessible on all devices, however, primarily the site will be aimed
+at desktop users due to the form process for placing an order being much easier to complete on this device. The site will be
+easy to navigate, enjoyable to use, and contain all the information needed regardless of the prior knowledge the user has.
 
 ## Table of contents
 ### 1. User Stories
+- Strategy Plane
+- Scope Plane
+- Structure Plane
+- Skeleton Plane
+- Surface Plane
 ### 2. Design
 ### 3. Wireframes
 ### 4. Features
@@ -51,13 +62,51 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
     c. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
 
+### Strategy Plane
+
+- The initial goal of the site is for users to find out more about the company through general informative text sections,
+and imagery that fits the rest of the sites aesthetics.
+
+- The most important goal of the site is for users to place an order for a surfboard manufactured to their exact requirements.
+
+- This site is mainly aimed at users who already partake in surfing as a hobby and have the required skill to warrent needing 
+this type of high end product. Regardless of this there will be enough information to aid users who perhaps don't have as much
+prior knowledge.
+
+### Scope Plane | Trade Off
+
+- The current features that are in the design plan and of the highest priority are;
+
+    - Responsive navigation bar.
+
+    - Hero image with a button placed strategically to direct the user to the most important page.
+
+    - Following [Bootstraps](https://getbootstrap.com/) grid system with the layout of the site
+    being mainly in thirds.
+
+    - Footer containing links to social media platforms.
+
+    - A form page that contains radio buttons, drop down lists and text inputs.
+
+- The features that are of a lower priority that may not be including in this build of the site are;
+
+    - Closeable modal window that prompts the user to sign up for the newsletter.
+
+    - Map included on site providing the exact location of the business.
+
+    - A more generlised contact form option.
+
+    - Navigation bar changing to a clickable burger icon on smaller screen sizes.
+
+    - Navigation links enlarging when hovered over with the users cursor.
+
 ## Design
 ### Colour Scheme
 
-- The main colours used will be greyscale and very simplistic, using ivory, charcoal and black.
+- The main colours used will be monochrome and very simplistic, using ivory, charcoal and black.
 
 - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
-            away from the imagery on the site.
+away from the imagery on the site.
 
 ### Typography
 
@@ -79,14 +128,14 @@ button included. The reason for this is to immediately direct the user to the ke
 
 - I also plan to use imagery on the modal that prompts visitors to sign up to the newsletter.
 
-- One of the website pages will be a gallery section where I will use imagery to tell a story, primarily informing the visitor 
-about what the business creates featuring previous products. As well as, showing the design process.
+- One of the website pages will be a surfers stories section where I will use imagery to tell a story about previous customers, 
+primarily informing the visitor about what the business creates featuring previous products. As well as, showing the design process.
 
 - There will also be icon imagery included in the site, however, this will be minimal in order to still keep the aesthetic style
 consistent.
 
 - The imagery used will be de-saturated in colour and the main focal will be on the products and lifestyle based around these. 
-The de-saturation in colour will fit in with the rest of the simple greyscale colours used throughout the rest of the website.
+The de-saturation in colour will fit in with the rest of the simple monochrome colours used throughout the rest of the website.
 
 ### Logo
 
