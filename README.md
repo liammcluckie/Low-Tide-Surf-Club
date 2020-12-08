@@ -81,7 +81,7 @@ prior knowledge.
 
     - Hero image with a button placed strategically to direct the user to the most important page.
 
-    - Following [Bootstraps](https://getbootstrap.com/) grid system with the layout of the site
+    - Following [Bootstrap](https://getbootstrap.com/) grid system with the layout of the site
     being mainly in thirds.
 
     - Footer containing links to social media platforms.
@@ -99,6 +99,29 @@ prior knowledge.
     - Navigation bar changing to a clickable burger icon on smaller screen sizes.
 
     - Navigation links enlarging when hovered over with the users cursor.
+
+### Structure Plane
+
+- This site will be structured using lots of imagery and short informative paragraphs. 
+
+- The layout will mainly be in thirds or in half on larger screen sizes to not overload the user visually 
+and to keep the functionality at optimum.
+
+- In order to direct the user to the most important areas of the website buttons and imagery for these
+will be contained with the hero image that will be seen first.
+
+- To ensure the users experience when completing the form for ordering is smooth, this page will contain
+minimal information and imagery to not distract the user.
+
+### Skeloton Plane
+
+#### Wireframes
+
+- [Website desktop view](assets/wireframes/ltsc-desktop.pdf)
+
+- [Website tablet view](assets/wireframes/ltsc-tablet.pdf)
+
+- [Website mobile view](assets/wireframes/ltsc-mobile.pdf)
 
 ## Design
 ### Colour Scheme
@@ -142,15 +165,6 @@ The de-saturation in colour will fit in with the rest of the simple monochrome c
 - The logo for site was created using the same Sans Serif style font through an online application called 
 [Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
 and was designed in a clean, and simple way that aesthetically works well but alse follows visual hierarchy.
-
-
-## Wireframes
-
-- [Website desktop wireframes](assets/wireframes/ltsc-desktop.pdf)
-
-- [Website tablet wireframes](assets/wireframes/ltsc-tablet.pdf)
-
-- [Website mobile wireframes](assets/wireframes/ltsc-mobile.pdf)
 
 ## Features
 
