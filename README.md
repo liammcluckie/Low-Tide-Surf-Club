@@ -12,20 +12,28 @@ at desktop users due to the form process for placing an order being much easier 
 easy to navigate, enjoyable to use, and contain all the information needed regardless of the prior knowledge the user has.
 
 ## Table of contents
-### 1. User Stories
+### 1. [UX](#ux)
+#### 1a. [User Stories](#user-stories)
+#### 1b. [User Centered Deisgn](#user-centered-design)
 - Strategy Plane
 - Scope Plane
 - Structure Plane
 - Skeleton Plane
-### 2. Design
-### 3. Wireframes
-### 4. Features
-### 5. Technologies Used
-### 6. Testing
-### 7. Deployment
-### 8. Credits
+### 2. [Design](#design)
+- Colour Scheme
+- Typography
+- Imagery
+- Logo
+### 3. [Features](#features)
+### 4. [Technologies Used](#technologies-used)
+- Syntax 
+- Frameworks, Libraries & Programs
+- Resources
+### 5. [Testing](#testing)
+### 6. [Deployment](#deployment)
+### 7. [Credits](#credits)
 
-## User Experience (UX)
+## UX
 ### User Stories
 - First Time Visitor Goals
 
@@ -61,6 +69,7 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
     c. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
 
+## User Centered Design
 ### Strategy Plane
 
 - The initial goal of the site is for users to find out more about the company through general informative text sections,
@@ -190,7 +199,7 @@ way.
 
 ## Technologies Used
 
-### Languages
+### Syntax
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
