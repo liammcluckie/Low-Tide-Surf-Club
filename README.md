@@ -17,7 +17,6 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 - Scope Plane
 - Structure Plane
 - Skeleton Plane
-- Surface Plane
 ### 2. Design
 ### 3. Wireframes
 ### 4. Features
@@ -113,7 +112,7 @@ will be contained with the hero image that will be seen first.
 - To ensure the users experience when completing the form for ordering is smooth, this page will contain
 minimal information and imagery to not distract the user.
 
-### Skeloton Plane
+### Skeleton Plane
 
 #### Wireframes
 
@@ -129,7 +128,7 @@ minimal information and imagery to not distract the user.
 - The main colours used will be monochrome and very simplistic, using ivory, charcoal and black.
 
 - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
-away from the imagery on the site.
+away from the imagery and purpose of the site.
 
 ### Typography
 
@@ -170,19 +169,34 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 - Responsive on all devices and screen sizes.
 
-- Modal pop up window open when website first loads.
+- Call to action placed with hero image below modal window.
+
+- Closeable modal pop up window open when website first loads.
+
+- Simple form included in modal asking for an email address.
+
+- Fixed navigation bar to enhance useability.
+
+- Linked icons to social media platforms included in footer.
+
+- Extensive form that includes radio buttons, drop down boxes, and text input.
 
 - Small interactive feautures such as enlargement when hovering over navigation bar.
 
+- Seperate general contact form.
+
+- Card containers used on Surfers Stories page to display information in a visually appealing
+way.
+
 ## Technologies Used
 
-### Languages Used
+### Languages
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs 
 
 1. [Hatchful](https://hatchful.shopify.com/)
      - Hatchful was used to generate the logo, which was then edited to my specifics within their website.
@@ -190,5 +204,11 @@ and was designed in a clean, and simple way that aesthetically works well but al
 2. [Balsamiq](https://balsamiq.com/)
     - The Balsamiq application was used to create wireframes for each website page on various device screen
     sizes.
+
+### Resources
+
+1. [Unsplash](https://unsplash.com/)
+    - The majority of the imagery on the site was collected from here. Unsplash provide high resolution
+    images free to use on the internet.
 
 ## Testing
