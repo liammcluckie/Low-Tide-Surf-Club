@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700&display=swap');
 </style>
 
-/*-----Colours------*/
+/*-------------------------------Colours------*/
 
-/*-------Special paddings/margins/text------*/
+/*----------------------Special paddings/margins/text------*/
 
 * {
     margin: 0;
@@ -20,7 +20,7 @@
     text-transform: uppercase;
 }
 
-/*-----------------------------------Header-----*/
+/*------------------------------------------Header-----*/
 
 .logo {
    width: 50%;
@@ -41,9 +41,16 @@
     text-decoration: none;
     color: #58616D;
     font-size: 1em;
+    padding-bottom: 1em;
 }
 
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+/*----------------------------------------------Hero image-----*/
+
+.hero-image {
+     
 }
