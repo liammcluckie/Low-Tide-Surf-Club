@@ -20,6 +20,13 @@
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: "Comfortaa", sans-serif;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    color: #17191c
+}
+
 /*------------------------------------------Header-----*/
 
 .logo {
@@ -41,7 +48,7 @@
     text-decoration: none;
     color: #58616D;
     font-size: 1em;
-    padding-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
@@ -49,11 +56,9 @@
   transform: scale(1.1);
 }
 
-/*----------------------------------------------Hero image-----*/
 
-.hero-image {
-     
-}
+
+/*----------------------------------------------Modal-----*/
 
 .modalDialog {
 	position: fixed;
@@ -65,9 +70,9 @@
 	background: rgba(0,0,0,0.8);
 	z-index: 99999;
 	opacity:0;
-	-webkit-transition: opacity 400ms ease-in;
+	/*-webkit-transition: opacity 400ms ease-in;
 	-moz-transition: opacity 400ms ease-in;
-	transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;*/
 	pointer-events: none;
 }
 
@@ -89,8 +94,8 @@
 }
 
 .close {
-	background: #606061;
-	color: #FFFFFF;
+	background-color: #58616D;
+	color: white;
 	line-height: 25px;
 	position: absolute;
 	right: -12px;
@@ -107,4 +112,14 @@
 	box-shadow: 1px 1px 3px #000;
 }
 
-.close:hover { background: #00d9ff; }
+.close span {
+    color: white;
+}
+
+#newsletter-text {
+    text-transform: none !important;
+    letter-spacing: 0.1em !important;
+    font-family: "Inconsolata", sans-serif !important;
+    font-weight: 400 !important;
+    color: #2d3239 !important;
+}
