@@ -1,0 +1,31 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700&display=swap');
+</style>
+
+/*-----Colours------*/
+
+.bg-color-logo {
+    background-color: grey;
+}
+
+/*-------Special paddings/margins/text------*/
+
+* {
+    margin: 0;
+    padding:0;
+    border: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/*-----------------------------------Header-----*/
+
+.logo {
+   width: 30%;
+   height: 30%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
