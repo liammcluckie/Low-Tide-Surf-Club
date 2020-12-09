@@ -42,3 +42,8 @@
     color: #58616D;
     font-size: 1em;
 }
+
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
