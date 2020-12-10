@@ -30,10 +30,10 @@ h2 {
 /*------------------------------------------Header-----*/
 
 .logo {
-   width: 50%;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    max-width: 50% ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /*----------------------------------------------Nav Bar-----*/
@@ -47,7 +47,7 @@ h2 {
 #nav a {
     text-decoration: none;
     color: #58616D;
-    font-size: 1em;
+    font-size: 2vh;
     margin-bottom: 1em;
 }
 
