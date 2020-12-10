@@ -29,34 +29,45 @@ h2 {
 
 /*------------------------------------------Header-----*/
 
-.logo {
-    max-width: 50% ;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-/*----------------------------------------------Nav Bar-----*/
-
-#nav {
-    font-family: "Comfortaa", sans-serif;
-    font-weight: 300;
-    letter-spacing: 0.2em;
-}
-
-#nav a {
-    text-decoration: none;
-    color: #58616D;
-    font-size: 2vh;
-    margin-bottom: 1em;
-}
-
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 
+/*------------------------------------------Header-----*/
 
+.logo {
+    max-width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*----------------------------------------------Nav Bar----*/
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+} 
+
+.navbar {
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #58616D;
+    font-size: 2vh;
+}
 
 /*----------------------------------------------Modal-----*/
 
