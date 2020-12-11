@@ -1,6 +1,5 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700&display=swap');
-</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700&display=swap');</style>
+
 
 /*-------------------------------Colours------*/
 
@@ -145,6 +144,23 @@ h2 {
 
 /*----------------------------------------------Hero Image-----------*/
 
-.hero-image {
+/*.hero-image {
     margin-top: 30px;
+    background-position: center;
+    background-image: url("hero-image.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    height: 400px;
+}*/
+
+body, html {
+  height: 100%;
 }
+.bg {
+    margin-top: 30px;   
+    background-image: url("../images/hero-image.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
