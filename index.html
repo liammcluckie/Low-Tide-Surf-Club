@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" 
-    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" 
     integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" 
     crossorigin="anonymous"/>
@@ -13,53 +13,42 @@
 </head>
 <body>
     <!------Header-->
-    <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="text-center">
-        <div class="container-fluid logo">
-            <div class="row">
-                <img src="assets/images/logo.png" class="img-fluid" alt="Low Tide Surf Club Logo">
-            </div>
+    <header>
+        <div class="container logo justify-content-center">
+            <img src="assets/images/logo.png" class="img-fluid" alt="Low Tide Surf Club Logo">
         </div>
     </header>
-    <!-------------Nav-->
-   <nav class="text-center text-uppercase">
-        <div class="row no-gutters">
-            <div class="col">
-                <ul id="nav" class="navbar-nav">
-                    <li class="col-sm-4 nav-item">
-                        <a href="index.html" class="nav-link active"><span>Home</span></a>
-                    </li>
-                    <li class="col-sm-4 nav-item">
-                        <a href="#" class="nav-link"><span>Custom Surfboards</span></a>
-                    </li>
-                    <li class="col-sm-4 nav-item">
-                        <a href="#" class="nav-link"><span>Surfers Stories</span></a>
-                    </li>
-                     <!-------------------------modal-->
-                    <li class="col-sm-4 list-inline-item menuitem nav-item">
-                        <a href="#openModal" class="nav-link">Newsletter</a>
-                        <div id="openModal" class="modalDialog">
-                            <div>
-                                <a href="#close" title="Close" class="close hvr-grow"><span>X</span></a>
-                                <h2 class="text-uppercase">Subscribe</h2>
-                                <span id="newsletter-text">Sign up to Low Tide Surf Club's monthly newsletter to fulfil all
-                                your surfboard needs</span>
-                                <form>
-                                    <label for="newsletter-email"></label>
-                                    <input id="newsletter-email" type="text" name="newsletter_email" placeholder="Email">
-                                    <input id="sign-up" type="submit" value="Sign Up!" class="hvr-grow">
-                                </form>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
+    <!-------------Nav--->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#">Custom Surfboards </a>
+                <a class="nav-item nav-link" href="#">Our Story</a>
+                <a class="nav-item nav-link" tabindex="-1" href="#openModal">Newsletter</a>
+                <div id="openModal" class="modalDialog">
+                    <div>
+                        <a href="#close" title="Close" class="close hvr-grow"><span> x </span></a>
+                        <h2 class="text-uppercase">Subscribe</h2>
+                        <span id="newsletter-text">Sign up to Low Tide Surf Club's monthly newsletter to fulfil all
+                            your surfboard needs</span>
+                        <form>
+                            <label for="newsletter-email"></label>
+                            <input id="newsletter-email" type="text" name="newsletter_email" placeholder="Email">
+                            <input id="sign-up" type="submit" value="Sign Up!" class="hvr-grow">
+                        </form>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>
     <!---------------------Hero Image-->
     <figure class="hero-image">
         <div class="container-fluid">
-            <div class="row">
                 <img src="assets/images/hero-image.jpg" class="img-fluid" alt="Surfboard stuck into the sand on a beach">
             </div>
         </div>
@@ -70,5 +59,11 @@
     <section></section>
     <!----------------------------------------------------Footer-->
     <footer></footer>  
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" 
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" 
+    crossorigin="anonymous"></script>  
 </body>
 </html>
