@@ -21,7 +21,7 @@
 
 h2 {
     font-family: "Comfortaa", sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     font-weight: 400;
     color: #17191c
 }
@@ -177,7 +177,7 @@ body, html {
 
 .cta:hover {
     color: #FFFFF0;
-    border-bottom: #FFFFF0 0.05em solid;
+    border-bottom: 0.05em solid #FFFFF0;
     transition-property: font-size;
     transition-duration: 0.3s;
     font-size: 3.8vh;
@@ -190,6 +190,28 @@ body, html {
 }
 
 .why-us-heading {
+    font-size: 2.5vh;
+    letter-spacing: 2px;
+    color: #58616D;
+}
+
+.why-us-title {
     font-size: 2vh;
     letter-spacing: 2px;
+    margin-top: 10px;
+    font-weight: 600;
 }
+
+.why-us-content {
+    margin-top: 40px;
+    letter-spacing: 0.5px;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.why-us-content i {
+    font-size: 3vh;
+}
+
