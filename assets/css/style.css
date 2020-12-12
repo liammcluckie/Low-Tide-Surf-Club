@@ -129,7 +129,7 @@ h2 {
     margin: 8px 0 10px 0;
     border: 1px solid #2d3239;
     border-radius: 15px;
-    font-size: 14px;
+    font-size: 2vh;
 }
 
 #newsletter-email {
@@ -145,15 +145,6 @@ h2 {
 
 /*----------------------------------------------Hero Image-----------*/
 
-/*.hero-image {
-    margin-top: 30px;
-    background-position: center;
-    background-image: url("hero-image.jpg");
-    background-attachment: fixed;
-    width: 100%;
-    height: 400px;
-}*/
-
 body, html {
   height: 100%;
 }
@@ -165,3 +156,29 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.cta {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Comfortaa", sans-serif;
+    letter-spacing: 3px;
+    font-weight: 300;
+    text-decoration: none;
+    border-bottom:#FFFFF0 0.05em solid;
+    color: #FFFFF0;
+    font-size: 3vh;
+    transition-property: font-size;
+    transition-duration: 0.3s
+
+}
+
+.cta:hover {
+    color: #FFFFF0;
+    border-bottom: #FFFFF0 0.05em solid;
+    transition-property: font-size;
+    transition-duration: 0.3s;
+    font-size: 3.8vh;
+}
