@@ -215,3 +215,15 @@ body, html {
     font-size: 3vh;
 }
 
+
+/*----------------------------------------------Testimonials-----------*/
+
+.bg-testimonial {
+    margin-top: 30px;   
+    background-image: url("../images/testimonial-main-image.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
