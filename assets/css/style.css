@@ -182,3 +182,14 @@ body, html {
     transition-duration: 0.3s;
     font-size: 3.8vh;
 }
+
+/*----------------------------------------------Why Us-----------*/
+
+.why-us {
+    margin-top: 30px;
+}
+
+.why-us-heading {
+    font-size: 2vh;
+    letter-spacing: 2px;
+}
