@@ -85,9 +85,9 @@ h2 {
 	padding: 5px 20px 13px 20px;
 	border-radius: 10px;
 	background: #fff;
-	background: -moz-linear-gradient(#fff, #999);
-	background: -webkit-linear-gradient(#fff, #999);
-	background: -o-linear-gradient(#fff, #999);
+	background: -moz-linear-gradient(#C0CED7);
+	background: -webkit-linear-gradient(#C0CED7);
+	background: -o-linear-gradient(#C0CED7);
 }
 
 .close {
@@ -295,6 +295,24 @@ body, html {
 
 /*--------------------------------------------------Gallery---------------*/
 
+.gallery-heading {
+    font-size: 2.5vh;
+    letter-spacing: 2px;
+    color: #58616D;
+    text-decoration: none;
+}
+
+.gallery a {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px; 
+}
+
+.gallery a:hover {
+    color: #58616D;
+}
+
 .gallery-image-one {
     width: 100%;
     
@@ -307,12 +325,21 @@ body, html {
 .gallery-image-three, .gallery-image-four, .gallery-image-five {
     width: 100%;
     margin-top: 1rem;
+    margin-bottom: 3rem;
     
 }
 
+/*----------------------------------------------------------Footer-------------------*/
+
+footer {
+    background-color: #E3E3E3;
+    width: 100%;
+    height: 15rem;
+} 
+
 /*----------------------------------------------------------Media Queries-------------------*/
 
-@media only screen and (max-width: 600px) {
+@media (min-width: 320px) and (max-width: 1024px) {
     .bg, .bg-two {
         background-attachment: scroll;
     }
