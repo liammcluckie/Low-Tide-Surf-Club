@@ -121,13 +121,25 @@ h2 {
     color: #2d3239 !important;
 }
 
-#newsletter-email, #sign-up {
+#newsletter-email {
     font-family: "Inconsolata", sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
     color: #2d3239;
     margin: 8px 0 10px 0;
     border: 1px solid #2d3239;
+    border-radius: 15px;
+    font-size: 2vh;
+}
+
+#sign-up {
+    background-color: #58616D;
+    color: #FFFFF0;
+    font-family: "Inconsolata", sans-serif;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    margin: 8px 0 10px 0;
+    border: 1px solid #58616D;
     border-radius: 15px;
     font-size: 2vh;
 }
@@ -141,6 +153,13 @@ h2 {
 #sign-up {
     padding: 5px;
     width: 80px;
+}
+
+.modal-image {
+    width: 80%;
+    height: 25rem;
+    opacity: 0.8;
+    border-radius: 5%; 
 }
 
 /*----------------------------------------------Hero Image-----------*/
