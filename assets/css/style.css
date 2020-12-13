@@ -309,3 +309,11 @@ body, html {
     margin-top: 1rem;
     
 }
+
+/*----------------------------------------------------------Media Queries-------------------*/
+
+@media only screen and (max-width: 600px) {
+    .bg, .bg-two {
+        background-attachment: scroll;
+    }
+}
