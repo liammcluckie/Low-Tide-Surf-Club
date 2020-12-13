@@ -196,6 +196,7 @@ body, html {
 }
 
 .why-us-title {
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     letter-spacing: 2px;
     margin-top: 10px;
@@ -238,3 +239,37 @@ body, html {
     color: #58616D;
 }
 
+.surfers-stories-name {
+    font-family: "Comfortaa", sans-serif;
+    font-size: 2vh;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.surfers-stories-place {
+    font-family: "Comfortaa", sans-serif;
+    color: #58616D;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 2vh;
+}
+
+.surfers-stories i {
+    font-size: 2vh;
+    letter-spacing: 2px;
+}
+
+.img-thumbnail {
+    border: none !important;
+    margin-top: 20px;
+}
+
+.surfer-stories-content {
+    margin-top: 15px;
+    letter-spacing: 0.5px;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 25px;
+}
