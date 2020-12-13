@@ -227,3 +227,14 @@ body, html {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.surfers-stories {
+    margin-top: 30px;
+}
+
+.surfers-stories-heading {
+    font-size: 2.5vh;
+    letter-spacing: 2px;
+    color: #58616D;
+}
+
