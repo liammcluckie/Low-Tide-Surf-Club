@@ -297,14 +297,15 @@ body, html {
 
 .gallery-image-one {
     width: 100%;
-    padding-top: 5rem;
+    
 }
 
 ..gallery-image-two {
     width: 100%;
 }
 
-.gallery-image-three, .gallery-image-four {
+.gallery-image-three, .gallery-image-four, .gallery-image-five {
     width: 100%;
     margin-top: 1rem;
+    
 }
