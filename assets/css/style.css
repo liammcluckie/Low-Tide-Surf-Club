@@ -292,3 +292,19 @@ body, html {
     font-weight: 300;
     line-height: 25px;
 }
+
+/*--------------------------------------------------Gallery---------------*/
+
+.gallery-image-one {
+    width: 100%;
+    padding-top: 5rem;
+}
+
+..gallery-image-two {
+    width: 100%;
+}
+
+.gallery-image-three, .gallery-image-four {
+    width: 100%;
+    margin-top: 1rem;
+}
