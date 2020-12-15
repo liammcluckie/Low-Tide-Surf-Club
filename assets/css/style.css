@@ -370,6 +370,14 @@ body, html {
     align-items:center;
 }
 
+.our-story-content-end {
+    font-size: 3vh;
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    color: #58616D;
+}
+
 /*----------------------------------------------------------Footer-------------------*/
 
 footer {
