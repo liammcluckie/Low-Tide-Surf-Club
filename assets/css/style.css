@@ -324,12 +324,13 @@ body, html {
 
 .gallery-image-three, .gallery-image-four, .gallery-image-five {
     width: 100%;
+    height: 100%;
     margin-top: 1rem;
-    margin-bottom: 3rem;
+    padding-bottom: 1rem;
     
 }
 
-/*----------------------------------------------------------About Page / Hero Image-------------------*/
+/*-------------------------------------------About Page / Hero Image------------*/
 
 .bg-three {
     margin-top: 30px;   
@@ -339,6 +340,34 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+/*-------------------------------------------About Page / Our Story------------*/
+
+.our-story-heading {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    font-size: 3vh;
+    letter-spacing: 2px;
+    color: #58616D;
+}
+
+.our-story-content {
+    margin-top: 15px;
+    letter-spacing: 0.5px;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.our-story-img {
+    margin-bottom: 3rem;
+}
+
+.our-story-row {
+    display: flex;
+    align-items:center;
 }
 
 /*----------------------------------------------------------Footer-------------------*/
@@ -372,6 +401,17 @@ footer i {
     font-weight: 300;
     color: black;
 }
+/*-------------------------------------------About Page / Hero Image-------------------*/
+
+.bg-three {
+    margin-top: 30px;   
+    background-image: url("../images/hero-image-about.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 /*----------------------------------------------------------Media Queries-------------------*/
 
@@ -384,11 +424,15 @@ footer i {
         height: 33rem;
     }
 
+    .our-story-heading {
+        margin-bottom: 1rem;
+    }
+
 }
 
 @media (min-width: 280px) and (max-width: 812px) {
 
-    .bg, .bg-two {
+    .bg, .bg-two, .bg-three {
         background-attachment: scroll;
     }
 
