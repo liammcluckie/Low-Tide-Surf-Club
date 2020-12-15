@@ -210,7 +210,7 @@ body, html {
 
 .why-us-heading {
     font-size: 2.5vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     color: #58616D;
 }
 
@@ -276,7 +276,7 @@ body, html {
 
 .surfers-stories i {
     font-size: 2vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
 }
 
 .img-thumbnail {
@@ -286,7 +286,7 @@ body, html {
 
 .surfer-stories-content {
     margin-top: 15px;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.1rem;
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
@@ -348,13 +348,13 @@ body, html {
     margin-top: 2rem;
     margin-bottom: 4rem;
     font-size: 3vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.2rem;
     color: #58616D;
 }
 
 .our-story-content {
-    margin-top: 15px;
-    letter-spacing: 0.5px;
+    margin-left: 1rem;
+    letter-spacing: 0.1rem;
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
@@ -374,11 +374,23 @@ body, html {
     font-size: 3vh;
     font-family: "Comfortaa", sans-serif;
     font-weight: 300;
-    letter-spacing: 1.5px;
+    letter-spacing: 0.2rem;
     color: #58616D;
 }
 
-/*----------------------------------------------------------Footer-------------------*/
+/*-------------------------------------------------------Footer-------------------*/
+
+.bg-four {
+    margin-top: 30px; 
+    background-image: url("../images/about-bottom-image.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*---------------------------------------------------------------Footer-------------------*/
 
 footer {
     background-color: #E3E3E3;
@@ -409,22 +421,11 @@ footer i {
     font-weight: 300;
     color: black;
 }
-/*-------------------------------------------About Page / Hero Image-------------------*/
-
-.bg-three {
-    margin-top: 30px;   
-    background-image: url("../images/hero-image-about.jpg");
-    height: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
 
 /*----------------------------------------------------------Media Queries-------------------*/
 
 @media (min-width: 320px) and (max-width: 1024px) {
-    .bg, .bg-two, .bg-three {
+    .bg, .bg-two, .bg-three, .bg-four {
         background-attachment: scroll;
     }
 
