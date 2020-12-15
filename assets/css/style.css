@@ -361,11 +361,22 @@ footer i {
     font-weight: 300;
     color: black;
 }
+/*-------------------------------------------About Page / Hero Image-------------------*/
+
+.bg-three {
+    margin-top: 30px;   
+    background-image: url("../images/hero-image-about.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 /*----------------------------------------------------------Media Queries-------------------*/
 
 @media (min-width: 320px) and (max-width: 1024px) {
-    .bg, .bg-two {
+    .bg, .bg-two, .bg-three {
         background-attachment: scroll;
     }
 
