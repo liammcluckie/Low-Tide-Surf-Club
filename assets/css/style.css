@@ -390,7 +390,7 @@ body, html {
     background-attachment: fixed;
 }
 
-/*---------------------------------------------Form Page / Hero Image-----------*/
+/*-------------------------------------------------------Form Page / Hero Image-----------*/
 
 .bg-five {
     margin-top: 30px; 
@@ -400,6 +400,37 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+/*-----------------------------------------------------------Form Page Intro-----------*/
+
+.custom-surfboards-heading {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    font-size: 3vh;
+    letter-spacing: 0.2rem;
+    color: black;
+}
+
+
+.custom-surfboards-intro {
+    margin-left: 1rem;
+    letter-spacing: 0.1rem;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+#custom-surfboards-price {
+    margin-left: 1rem;
+    letter-spacing: 0.1rem;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 400;
+    line-height: 25px;
+    color: black;
+    text-align: center;
 }
 
 /*---------------------------------------------------------------Footer--------------------------*/
