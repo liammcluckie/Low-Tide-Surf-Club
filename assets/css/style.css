@@ -378,7 +378,7 @@ body, html {
     color: #58616D;
 }
 
-/*-------------------------------------------------------Footer-------------------*/
+/*---------------------------------------------About Page / Bottom Banner Image-----------*/
 
 .bg-four {
     margin-top: 30px; 
@@ -390,7 +390,19 @@ body, html {
     background-attachment: fixed;
 }
 
-/*---------------------------------------------------------------Footer-------------------*/
+/*---------------------------------------------Form Page / Hero Image-----------*/
+
+.bg-five {
+    margin-top: 30px; 
+    background-image: url("../images/form-hero-image.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*---------------------------------------------------------------Footer--------------------------*/
 
 footer {
     background-color: #E3E3E3;
@@ -425,7 +437,7 @@ footer i {
 /*----------------------------------------------------------Media Queries-------------------*/
 
 @media (min-width: 280px) and (max-width: 1024px) {
-    .bg, .bg-two, .bg-three, .bg-four {
+    .bg, .bg-two, .bg-three, .bg-four, .bg-five {
         background-attachment: scroll;
     }
 
