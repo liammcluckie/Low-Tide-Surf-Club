@@ -424,7 +424,7 @@ footer i {
 
 /*----------------------------------------------------------Media Queries-------------------*/
 
-@media (min-width: 320px) and (max-width: 1024px) {
+@media (min-width: 280px) and (max-width: 1024px) {
     .bg, .bg-two, .bg-three, .bg-four {
         background-attachment: scroll;
     }
@@ -440,10 +440,6 @@ footer i {
 }
 
 @media (min-width: 280px) and (max-width: 812px) {
-
-    .bg, .bg-two, .bg-three {
-        background-attachment: scroll;
-    }
 
     footer {
         height: 35rem;
