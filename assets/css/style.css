@@ -435,6 +435,25 @@ body, html {
 
 /*-----------------------------------------------------------Form Page / Form-----------*/
 
+.form-heading {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    font-size: 3vh;
+    letter-spacing: 0.15rem;
+    color: #58616D
+}
+
+label, input {
+    letter-spacing: 0.1rem;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+#height, #weight {
+    padding: 4px;
+}
 
 /*---------------------------------------------------------------Footer--------------------------*/
 
