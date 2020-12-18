@@ -436,6 +436,7 @@ body, html {
 /*-----------------------------------------------------------Form Page / Form-----------*/
 
 .form-heading {
+    padding-top: 2rem;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     font-size: 3vh;
@@ -443,16 +444,28 @@ body, html {
     color: #58616D
 }
 
-label, input {
+label, input, select, textarea {
     letter-spacing: 0.1rem;
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
     line-height: 25px;
+    margin: 0.2rem;
 }
 
 #height, #weight {
     padding: 4px;
+}
+
+#order-btn {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.1rem;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 2vh;
+    font-weight: 400;
+    text-align: center;
+
 }
 
 /*---------------------------------------------------------------Footer--------------------------*/

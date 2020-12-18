@@ -87,7 +87,7 @@
         <h4 class="form-heading text-center text-uppercase">Surfers Details</h4>
         <div class="d-flex justify-content-center align-items-center">
             <div class="row">
-                <form>
+                <form method="post">
                     <div class="form-row">
                         <div class="form-group form-check-inline col">
                             <label for="name">Full Name</label>
@@ -302,9 +302,8 @@
                     <div class="form-row">
                         <div class="form-group form-check-inline col">
                             <label for="board-colour">Board Colour</label>
-                            <input id="board-colour-list" type="radio" name="board_colour" value="colour-list" required
-                                checked>
-                            <select id="board-colour" class="form-control" name="board_colour">
+                            <input id="board-colour-list" type="radio" name="board_colour" value="colour-list" required checked>
+                            <select id="board-colour" class="form-control w-50" name="board_colour">
                                 <option value="none">None/White</option>
                                 <option value="ghost-grey">Ghost Grey</option>
                                 <option value="purple">Deep Purple</option>
@@ -354,7 +353,9 @@
                             <textarea name="comments" id="comments" class="form-control" cols="30" rows="10"
                                 placeholder="Please be as specific as possible..."></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary">Place Order</button>
+                        <div class="text-center">
+                            <button type="submit" id="order-btn" class="btn btn-secondary text-uppercase">Place Order</button>
+                        </div>
                 </form>
             </div>
         </div>
