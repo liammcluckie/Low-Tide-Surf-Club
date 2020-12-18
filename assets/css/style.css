@@ -465,6 +465,8 @@ label, input, select, textarea {
     font-size: 2vh;
     font-weight: 400;
     text-align: center;
+    border: 1px solid black;
+    background-color: #fff;
 
 }
 
