@@ -471,6 +471,19 @@ label, input, select, textarea {
     background-color: #fff;
 
 }
+
+/*---------------------------------------------About Page / Bottom Banner Image-----------*/
+
+.bg-six {
+    margin-top: 30px; 
+    background-image: url("../images/form-bottom-image.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 /*---------------------------------------------------------------Footer--------------------------*/
 
 footer {
@@ -506,7 +519,7 @@ footer i {
 /*----------------------------------------------------------Media Queries-------------------*/
 
 @media (min-width: 280px) and (max-width: 1024px) {
-    .bg, .bg-two, .bg-three, .bg-four, .bg-five {
+    .bg, .bg-two, .bg-three, .bg-four, .bg-five, .bg-six {
         background-attachment: scroll;
     }
 
