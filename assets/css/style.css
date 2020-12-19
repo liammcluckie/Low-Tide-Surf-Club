@@ -219,18 +219,18 @@ body, html {
 .why-us-title {
     font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     margin-top: 10px;
     font-weight: 600;
 }
 
 .why-us-content {
     margin-top: 40px;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.1rem;
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 30px;
 }
 
 .why-us-content i {
@@ -256,14 +256,14 @@ body, html {
 
 .surfers-stories-heading {
     font-size: 2.5vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     color: #58616D;
 }
 
 .surfers-stories-name {
     font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     margin-top: 20px;
     font-weight: 600;
 }
@@ -271,7 +271,7 @@ body, html {
 .surfers-stories-place {
     font-family: "Comfortaa", sans-serif;
     color: #58616D;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     font-weight: 400;
     font-size: 2vh;
 }
@@ -292,14 +292,14 @@ body, html {
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 30px;
 }
 
 /*--------------------------------------------------Gallery---------------*/
 
 .gallery-heading {
     font-size: 2.5vh;
-    letter-spacing: 2px;
+    letter-spacing: 0.1rem;
     color: #58616D;
     text-decoration: none;
 }
@@ -350,7 +350,7 @@ body, html {
     margin-top: 2rem;
     margin-bottom: 4rem;
     font-size: 3vh;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
     color: #58616D;
 }
 
@@ -360,7 +360,7 @@ body, html {
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 30px;
 }
 
 .our-story-img {
@@ -421,7 +421,7 @@ body, html {
     font-family: "Inconsolata", sans-serif;
     font-size: 2vh;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 30px;
 }
 
 #custom-surfboards-price {
@@ -472,7 +472,7 @@ label, input, select, textarea {
 
 }
 
-/*---------------------------------------------About Page / Bottom Banner Image-----------*/
+/*---------------------------------------------Form Page / Bottom Banner Image-----------*/
 
 .bg-six {
     margin-top: 30px; 
@@ -510,10 +510,12 @@ footer p {
 
 footer i {
     font-size: 3vh;
-    letter-spacing: 20px;
-    padding-top: 0.5rem;
+    letter-spacing: 2em;
+    padding-top: 0.8em;
     font-weight: 300;
     color: black;
+    position: relative;
+    left: 0.6em;
 }
 
 /*----------------------------------------------------------Media Queries-------------------*/
