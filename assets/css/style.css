@@ -521,10 +521,6 @@ footer i {
     left: 0.6em;
 }
 
-.subscribe-footer {
-    background-color: #b5b5b5;
-}
-
 .fa-facebook-f:hover {
     transition-duration: 0.3s;
     font-size: 4vh;
@@ -538,6 +534,26 @@ footer i {
 .fa-youtube:hover {
     transition-duration: 0.3s;
     font-size: 4vh;
+}
+
+/*-------------------------------------------------Newsletter only visible on sm and md-------------------*/
+
+.subscribe-footer {
+    background-color: #b5b5b5;
+    height: 8em;
+}
+
+#newsletter-email-footer {
+    border: 1px solid black;
+    width: 40%;
+    padding: 0.3em;
+}
+
+#sign-up-footer {
+    border: 1px solid black;
+    background-color: #fff;
+    padding: 0.3em;
+    text-transform: uppercase;
 }
 
 /*----------------------------------------------------------Media Queries-------------------*/
