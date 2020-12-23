@@ -591,6 +591,12 @@ footer i {
     }
 }
 
+@media (min-width: 1025px) {
+    .subscribe-footer {
+        display: none;
+    }
+}
+
 /*----------------------------------------------------Ipad Pro Media Queries-------------------*/
 
 @media only screen 
