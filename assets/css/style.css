@@ -446,7 +446,7 @@ body, html {
     font-size: 3vh;
     font-weight: 300;
     letter-spacing: 0.15rem;
-    color: #58616D
+    color: #58616D;
 }
 
 label, input, select, textarea {
@@ -519,6 +519,10 @@ footer i {
     color: black;
     position: relative;
     left: 0.6em;
+}
+
+.subscribe-footer {
+    background-color: #b5b5b5;
 }
 
 .fa-facebook-f:hover {
@@ -595,5 +599,9 @@ footer i {
 
       #why-us-hide {
           display: none!important;
+      }
+
+      .our-story-heading {
+          margin-bottom: 2em;;
       }
 }
