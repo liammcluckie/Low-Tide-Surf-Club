@@ -102,7 +102,7 @@ h2 {
 	right: -12px;
 	text-align: center;
 	top: -10px;
-	width: 2em;
+	width: 1.8em;
 	text-decoration: none;
 	font-weight: bold;
 	-webkit-border-radius: 12px;
@@ -212,18 +212,19 @@ body, html {
     letter-spacing: 0.1rem;
     color: #58616D;
     font-weight: 600;
+    margin-bottom: 30px;
 }
 
 .why-us-title {
     font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     letter-spacing: 0.1rem;
-    margin-top: 10px;
+    margin-top: 20px;
     font-weight: 600;
 }
 
 .why-us-content {
-    margin-top: 40px;
+    margin-top: 20px;
     letter-spacing: 0.1rem;
     font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
@@ -566,7 +567,7 @@ footer i {
 
 @media (min-width: 768px) and (max-width: 1024px) {
     footer {
-        height: 40rem;
+        height: 41rem;
     }
 }
 
@@ -582,5 +583,17 @@ footer i {
 
       footer {
           height: 28rem;
+      }
+
+      footer i {
+          letter-spacing: 1em;
+      }
+
+      #testimonial-hide {
+          display: none!important;
+      }
+
+      #why-us-hide {
+          display: none!important;
       }
 }
