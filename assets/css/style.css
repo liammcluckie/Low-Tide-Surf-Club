@@ -120,13 +120,13 @@ h2 {
 #newsletter-text {
     text-transform: none !important;
     letter-spacing: 1px !important;
-    font-family: "Inconsolata", sans-serif !important;
+    font-family: "Comfortaa", sans-serif !important;
     font-weight: 400 !important;
     color: #2d3239 !important;
 }
 
 #newsletter-email {
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
     color: #2d3239;
@@ -143,7 +143,7 @@ h2 {
     text-transform: uppercase;
     background-color: #E3E3E3;
     color: black;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-weight: 400;
     letter-spacing: 1.5px;
     margin: 0.5em 0 1em 0;
@@ -208,9 +208,10 @@ body, html {
 }
 
 .why-us-heading {
-    font-size: 2.5vh;
+    font-size: 2.8vh;
     letter-spacing: 0.1rem;
     color: #58616D;
+    font-weight: 600;
 }
 
 .why-us-title {
@@ -224,7 +225,7 @@ body, html {
 .why-us-content {
     margin-top: 40px;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     font-weight: 300;
     line-height: 30px;
@@ -252,9 +253,10 @@ body, html {
 }
 
 .surfers-stories-heading {
-    font-size: 2.5vh;
+    font-size: 2.8vh;
     letter-spacing: 0.1rem;
     color: #58616D;
+    font-weight: 600;
 }
 
 .surfers-stories-name {
@@ -286,7 +288,7 @@ body, html {
 .surfer-stories-content {
     margin-top: 15px;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     font-weight: 300;
     line-height: 30px;
@@ -295,7 +297,7 @@ body, html {
 /*--------------------------------------------------Gallery---------------*/
 
 .gallery-heading {
-    font-size: 2.5vh;
+    font-size: 2.8vh;
     letter-spacing: 0.1rem;
     color: #58616D;
     text-decoration: none;
@@ -346,7 +348,8 @@ body, html {
 .our-story-heading {
     margin-top: 2rem;
     margin-bottom: 4rem;
-    font-size: 3vh;
+    font-size: 2.8vh;
+    font-weight: 600;
     letter-spacing: 0.1rem;
     color: #58616D;
 }
@@ -354,7 +357,7 @@ body, html {
 .our-story-content {
     margin-left: 1rem;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     font-weight: 300;
     line-height: 30px;
@@ -372,7 +375,7 @@ body, html {
 .our-story-content-end {
     font-size: 3vh;
     font-family: "Comfortaa", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 0.2rem;
     color: #58616D;
 }
@@ -406,16 +409,17 @@ body, html {
 .custom-surfboards-heading {
     margin-top: 2rem;
     margin-bottom: 1.5rem;
-    font-size: 3vh;
+    font-size: 2.8vh;
+    font-weight: 600;
     letter-spacing: 0.2rem;
-    color: black;
+    color: #58616D;
 }
 
 
 .custom-surfboards-intro {
     margin-left: 1rem;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     font-weight: 300;
     line-height: 30px;
@@ -424,8 +428,8 @@ body, html {
 #custom-surfboards-price {
     margin-left: 1rem;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
-    font-size: 2.5vh;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 2.3vh;
     font-weight: 400;
     line-height: 30px;
     color: black;
@@ -439,14 +443,15 @@ body, html {
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     font-size: 3vh;
+    font-weight: 300;
     letter-spacing: 0.15rem;
     color: #58616D
 }
 
 label, input, select, textarea {
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
-    font-size: 2vh;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 1.8vh;
     font-weight: 300;
     line-height: 25px;
     margin: 0.2rem;
@@ -460,7 +465,7 @@ label, input, select, textarea {
     margin-top: 1rem;
     margin-bottom: 1rem;
     letter-spacing: 0.1rem;
-    font-family: "Inconsolata", sans-serif;
+    font-family: "Comfortaa", sans-serif;
     font-size: 2vh;
     font-weight: 400;
     text-align: center;
