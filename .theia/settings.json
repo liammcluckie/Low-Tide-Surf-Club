@@ -19,5 +19,12 @@
       "**/core.mongo*": true,
       "**/core.python*": true,
    },
-   "emmet.extensionsPath": ".theia"
+"emmet.extensionsPath": ".theia",
+"cSpell.words": [
+    "Frakenstein",
+    "Seafoam",
+    "Shortboard",
+    "lowtidesurfclub",
+    "powertool"
+]
 }
