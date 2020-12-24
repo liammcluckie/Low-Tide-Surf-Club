@@ -159,8 +159,8 @@ button included. The reason for this is to immediately direct the user to the ke
 
 - I also plan to use imagery on the modal that prompts visitors to sign up to the newsletter.
 
-- One of the website pages will be a surfers stories section where I will use imagery to tell a story about previous customers, 
-primarily informing the visitor about what the business creates featuring previous products. As well as, showing the design process.
+- The about page titled 'Our Story' will use imagery to tell a story about the business. 
+Primarily this will inform the visitor about what the business creates featuring previous products, as well as, showing the design process.
 
 - There will also be icon imagery included in the site, however, this will be minimal in order to still keep the aesthetic style
 consistent.
@@ -172,30 +172,41 @@ The de-saturation in colour will fit in with the rest of the simple monochrome c
 
 - The logo for site was created using the same Sans Serif style font through an online application called 
 [Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
-and was designed in a clean, and simple way that aesthetically works well but alse follows visual hierarchy.
+and was designed in a clean, and simple way that aesthetically works well but also follows visual hierarchy.
 
 ## Features
 
-- Responsive on all devices and screen sizes.
+### Existing Features
+
+- Responsive on all devices screen sizes, and various browsers.
 
 - Call to action placed with hero image below modal window.
 
-- Closeable modal pop up window open when website first loads.
+- Closeable modal pop up window when the newsletter link is selected (only viewable on laptop screen sizes and larger.)
+
+- Subscription newsletter input in site footer (only viewable on tablet and smaller devices.)
 
 - Simple form included in modal asking for an email address.
-
-- Fixed navigation bar to enhance useability.
 
 - Linked icons to social media platforms included in footer.
 
 - Extensive form that includes radio buttons, drop down boxes, and text input.
 
-- Small interactive feautures such as enlargement when hovering over navigation bar.
+- Small interactive features such as enlargement on links and slight font colour change when hovering over nav bar.
 
-- Seperate general contact form.
+- Card containers used on Surfers Stories page to display information in a visually appealing way.
 
-- Card containers used on Surfers Stories page to display information in a visually appealing
-way.
+### Future Features
+
+- A general contact form to be added either in a modal or a separate page.
+
+- Customer account log-in to be added to nav bar.
+
+- For all forms to be made functional using correct syntax.
+
+- To add more pages to the site including a product and a blog page.
+
+- Add a carousel for displaying images.
 
 ## Technologies Used
 
