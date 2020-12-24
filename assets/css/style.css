@@ -583,6 +583,10 @@ footer i {
         letter-spacing: 2px;
         margin-right: 25px;
     }
+
+    #newsletter-email-footer {
+        width: 60%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -603,27 +607,27 @@ footer i {
   and (min-width: 1024px) and (max-width: 1026px)
   and (max-height: 1366px) 
   and (-webkit-min-device-pixel-ratio: 1.5) {
-        #modal-hide {
-            display: none!important;
-      }
+    #modal-hide {
+        display: none!important;
+    }
 
-      footer {
-          height: 28rem;
-      }
+    footer {
+        height: 28rem;
+    }
 
-      footer i {
-          letter-spacing: 1em;
-      }
+    footer i {
+        letter-spacing: 1em;
+    }
 
-      #testimonial-hide {
-          display: none!important;
-      }
+    #testimonial-hide {
+        display: none!important;
+    }
 
-      #why-us-hide {
-          display: none!important;
-      }
+    #why-us-hide {
+        display: none!important;
+    }
 
-      .our-story-heading {
-          margin-bottom: 2em;;
-      }
+    .our-story-heading {
+        margin-bottom: 2em;;
+    }
 }
