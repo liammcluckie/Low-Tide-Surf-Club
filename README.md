@@ -1,8 +1,8 @@
 # Low Tide Surf Club | Custom Surfboards Website
 
-<!--Add images of site on devices here-->
+[View live project here](https://liammcluckie.github.io/MS1-Custom-Surfboards/index.html)
 
-<!--Add live link project here-->
+![Images of landing page shown on multiple devices](assets/images/ltsc-responsive.png)
 
 ## Overview
 
@@ -14,7 +14,7 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 ## Table of contents
 ### 1. [UX](#ux)
 #### 1a. [User Stories](#user-stories)
-#### 1b. [User Centered Deisgn](#user-centered-design)
+#### 1b. [User Centered Design](#user-centered-design)
 - Strategy Plane
 - Scope Plane
 - Structure Plane
