@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700&display=swap');
 
-
-/*-------------------------------Colours------*/
-
 /*----------------------Special paddings/margins/text------*/
 
 * {
@@ -166,6 +163,7 @@ h2 {
 body, html {
   height: 100%;
 }
+
 .bg {
     margin-top: 30px;   
     background-image: url("../images/hero-image.jpg");
@@ -235,7 +233,6 @@ body, html {
 .why-us-content i {
     font-size: 3vh;
 }
-
 
 /*----------------------------------------------Testimonials-----------*/
 
@@ -415,7 +412,6 @@ body, html {
     letter-spacing: 0.2rem;
     color: #58616D;
 }
-
 
 .custom-surfboards-intro {
     margin-left: 1rem;
