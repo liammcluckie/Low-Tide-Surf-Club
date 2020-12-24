@@ -125,11 +125,11 @@ minimal information and imagery to not distract the user.
 
 #### Wireframes
 
-- [Website desktop view](assets/wireframes/ltsc-desktop.pdf)
+- [Website desktop view](wireframes/ltsc-desktop.pdf)
 
-- [Website tablet view](assets/wireframes/ltsc-tablet.pdf)
+- [Website tablet view](wireframes/ltsc-tablet.pdf)
 
-- [Website mobile view](assets/wireframes/ltsc-mobile.pdf)
+- [Website mobile view](wireframes/ltsc-mobile.pdf)
 
 ## Design
 ### Colour Scheme
