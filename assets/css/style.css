@@ -570,7 +570,6 @@ footer i {
     .our-story-heading {
         margin-bottom: 1rem;
     }
-
 }
 
 @media (min-width: 280px) and (max-width: 812px) {
@@ -587,11 +586,31 @@ footer i {
     #newsletter-email-footer {
         width: 60%;
     }
+
+    .cta {
+        position: relative;
+        top: 30%;
+        left: 25%
+    }
+}
+
+@media (min-width: 540px) and (max-width: 720px) {
+    .cta {
+        position: relative;
+        top: 30%;
+        left: 35%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
     footer {
         height: 41rem;
+    }
+
+    .cta {
+        position: relative;
+        top:40%;
+        left:35%;
     }
 }
 
