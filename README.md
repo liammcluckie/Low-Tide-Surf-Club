@@ -266,4 +266,15 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for my project. The changes that I made to the original example are; 
     Adding it into my navigation bar as a clickable link, adding a form section into the modal window itself, and changing the styling to fit the aesthetics of my website.
 
+4. [Stack Overflow](https://stackoverflow.com/)
+    - Stack Overflow was used to research various programming techniques as well as problem solving a few issues and bugs encountered. One of the main techniques that was used on
+    my project found on Stack Overflow was making the font size of links increase in size smoothly and this was found [here](https://stackoverflow.com/questions/47960948/link-grow-font-on-hover).
+
+5. [Can Adapt](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+    - Since I was using background images throughout my project I was unsure on the correct way to add alternative text to these for screen readers. I found all the information needed
+    on the Can Adapt site who specialise in web accessibility training.
+
+6. [w3 schools](https://www.w3schools.com/colors/colors_picker.asp)
+    - This educational website contains lots of useful information for programming, I primarily used it to select slightly lighter tones for my colour scheme.
+
 ## Testing
