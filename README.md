@@ -277,4 +277,7 @@ and was designed in a clean, and simple way that aesthetically works well but al
 6. [w3 schools](https://www.w3schools.com/colors/colors_picker.asp)
     - This educational website contains lots of useful information for programming, I primarily used it to select slightly lighter tones for my colour scheme.
 
+7. [CSS Tricks](https://css-tricks.com/)
+    - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
+
 ## Testing
