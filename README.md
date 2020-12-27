@@ -225,10 +225,45 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - The Balsamiq application was used to create wireframes for each website page on various device screen
     sizes.
 
+3. [Font Awesome](https://fontawesome.com/)
+    - Used to display icons on the landing page and the social media icons in the footer.
+
+4. [Bootstrap](https://getbootstrap.com/)
+    - Bootstrap was widely used throughout the site for responsiveness using the grid system, displaying or hiding elements, the navigation bar,
+    and the form on the order page.
+
+5. [Google Fonts](https://fonts.google.com/)
+    - Used to import the two fonts used throughout the site Comfortaa and Inconsolata.
+
+6. [Hover.css](https://ianlunn.github.io/Hover/)
+    - To add a size increase to specific text links when the users cursor hovers over them.
+
+7. [Github](https://github.com/)
+    - Used to host the entire repository for the project.
+
+8. [Gitpod](https://gitpod.io/)
+    - This was the platform used to build the entire project on.
+    
+9. [Github Pages](https://pages.github.com/)
+    - Used to host the live version of the website as well as integral to aid in the de-bugging of the project.
+
+10. [Am I Responsive](http://ami.responsivedesign.is/)
+    - A tool to check how the website appears and the functionality on various devices. The image at the top of this document was generated from this website.
+
+11. [jQuery](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 
+    - The Boostrap version 4.5 used for this project requires jQuery for certain elements, in my project this was needed for the collapsible navigation bar.
+
 ### Resources
 
 1. [Unsplash](https://unsplash.com/)
     - The majority of the imagery on the site was collected from here. Unsplash provide high resolution
     images free to use on the internet.
+
+2. [Freepik](https://www.freepik.com/)
+    - The only other website used for imagery, the images displayed on the about/our story page were collected from here. 
+
+3. [Web Designer Depot](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
+    - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for my project. The changes that I made to the original example are; 
+    Adding it into my navigation bar as a clickable link, adding a form section into the modal window itself, and changing the styling to fit the aesthetics of my website.
 
 ## Testing
