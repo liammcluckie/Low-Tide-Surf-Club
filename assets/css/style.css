@@ -78,7 +78,7 @@ h2 {
 .modalDialog > div {
 	width: 27%;
     position: absolute;
-    top: 1;
+    top: 1em;
     left: 0;
     bottom: 0;
     right: 0;
