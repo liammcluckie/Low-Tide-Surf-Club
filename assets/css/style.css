@@ -27,7 +27,8 @@ h2 {
 
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
     -webkit-transform: scale(1.1);
-    transform: scale(1.1);
+    -ms-transform: scale(1.1);
+        transform: scale(1.1);
 }
 
 /*------------------------------------------Header-----*/
@@ -86,8 +87,6 @@ h2 {
 	padding: 5px 20px 13px 20px;
 	border-radius: 10px;
 	background: #fff;
-	background: -moz-linear-gradient(#C0CED7);
-	background: -webkit-linear-gradient(#C0CED7);
 	background: -o-linear-gradient(#C0CED7);
 }
 
@@ -102,10 +101,7 @@ h2 {
 	width: 1.8em;
 	text-decoration: none;
 	font-weight: bold;
-	-webkit-border-radius: 12px;
-	-moz-border-radius: 12px;
 	border-radius: 1em;
-	-moz-box-shadow: 1px 1px 3px #000;
 	-webkit-box-shadow: 1px 1px 3px #000;
 	box-shadow: 1px 1px 3px #000;
 }
@@ -178,7 +174,9 @@ body, html {
     position: relative;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     font-family: "Comfortaa", sans-serif;
     letter-spacing: 3px;
     font-weight: 300;
@@ -186,16 +184,24 @@ body, html {
     border-bottom:#FFFFF0 0.05em solid;
     color: #FFFFF0;
     font-size: 3vh;
+    -webkit-transition-property: font-size;
+    -o-transition-property: font-size;
     transition-property: font-size;
-    transition-duration: 0.3s
+    -webkit-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s
 
 }
 
 .cta:hover {
     color: #FFFFF0;
     border-bottom: 0.05em solid #FFFFF0;
+    -webkit-transition-property: font-size;
+    -o-transition-property: font-size;
     transition-property: font-size;
-    transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
     font-size: 3.8vh;
 }
 
@@ -366,8 +372,12 @@ body, html {
 }
 
 .our-story-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items:center;
+    -webkit-box-align:center;
+        -ms-flex-align:center;
+            align-items:center;
 }
 
 .our-story-content-end {
@@ -522,17 +532,23 @@ footer i {
 }
 
 .fa-facebook-f:hover {
-    transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
     font-size: 4vh;
 }
 
 .fa-instagram:hover {
-    transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
     font-size: 4vh;
 }
 
 .fa-youtube:hover {
-    transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
     font-size: 4vh;
 }
 
