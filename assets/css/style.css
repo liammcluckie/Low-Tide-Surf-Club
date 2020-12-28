@@ -58,6 +58,8 @@ h2 {
 
 /*----------------------------------------------Modal-----*/
 
+/* Code taken from https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/ and altered to suit this project */
+
 .modalDialog {
 	position: fixed;
 	font-family: "Inconsolata", sans-serif;
