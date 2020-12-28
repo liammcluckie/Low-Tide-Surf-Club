@@ -299,6 +299,8 @@ Find all information on the testing that has been carried out for this project [
 
 ## Deployment 
 
+### GitHub Pages
+
 This project was coded using [GitPod](https://gitpod.io/) by using the following steps.
 
 1. Firstly a new repository was created and titled for this project.
@@ -318,6 +320,31 @@ This project was then deployed using [GitHub Pages](https://pages.github.com/) b
 4. Under the 'Source' label there is a dropdown box that is displaying 'None'. Click on this and change the source to 'Master Branch', the page will now automatically refresh.
 
 5. Once the page has finished loading scroll back down to the GitHub pages section and it will be displaying the published website [link.](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
+
+### Forking the GitHub Repository
+
+This project is available to be copied and edited by other users without changing the repository on the original GitHub account. This can be
+done by forking this entire repository by following these steps.
+
+1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
+    - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
+
+2. At the top of the repository page, below your own account icon you will find three buttons one of these is labelled 'Fork' click here.
+
+3. You will now have a copy of the entire repository in your own GitHub account to edit and make changes too.
+
+4. If any suggestions, improvements or changes have been made that you would wish to share to improve the original site you can then submit a pull
+request to the project owner, details on how to do this can be found [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
+
+### Making a Local Clone
+
+1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
+    - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
+
+2. Located directly above the repository files and to the left of the green 'GitPod' button is a 'Code' button click on this.
+
+3. 
+
 
 
 
