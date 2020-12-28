@@ -85,7 +85,7 @@ through once more to check, all code has passed with no errors as seen in below.
     user experience. 
 
     ![Screenshot of site navigation bar including all the links](testing/goals-testing-ten.png)
-    ![Screenshot of the newsletter email subscribe modal that displays an image if two surfboards placed on top of each other standing](testing/goals-testing-nine.png)
+    ![Screenshot of the newsletter email subscribe modal](testing/goals-testing-nine.png)
 
     - The second way this implemented was by adding a simple form to the footer, this is only viewable on devices smaller than a standard laptop screen. The reason for this is it goes
     against industry standard to have modals appearing on smaller devices.
@@ -99,3 +99,39 @@ through once more to check, all code has passed with no errors as seen in below.
     link above the gallery section, then once again in the footer. All other social media platform links are also featured in the footer in a predominant way.
 
     ![Screenshot of text that links to the business instagram located above the gallery section](testing/goals-testing-twelve.png)
+
+### Browser Compatibility and Device Responsiveness Testing
+
+This project was continually tested on various devices and screen sizes throughout the project by using Google Chrome Developer Tools. It was also tested in real time through my own personal
+devices that were an Iphone 8 and a 10.5" Ipad to ensure that testing was thoroughly checked.
+
+Once the project was completed a cross browser compatibility test on six different browsers was carried out using a web based application [BrowserStack](https://www.browserstack.com/). I also checked this testing 
+by downloading the browsers that were available to me to double check on the testing.
+
+This table below shows how all the projects pages responded on different device screen sizes and being used on various browsers, the grading key is as follows;
+
+- Good - Appears exactly as intended aesthetically and functionally
+
+- OK - Appears as intended functionally but some aesthetics may have slightly altered
+
+- Poor - Website still functions correctly but key elements do not appear as intended
+
+![Screenshot of a table that displays various devices and browsers and how this project appeared when tested](testing/browser-test.png)
+
+### Google Lighthouse Testing
+
+Once the main build of this project was completed a test for mobile and web was carried out for all pages using Google Developer Tools Lighthouse application. Using the report I then 
+went through the project and made as many recommended alterations as possible to improve the website inline with the areas that lighthouse focuses on.
+
+Below are the before and after results for the landing page on web view. To see before and after results for all pages on [mobile](lighthouse-mobile/lighthouse-mobile-table.png) or [web](lighthouse-web/lighthouse-web-table.png) please follow the links.
+
+Before
+
+![Screenshot of test results using Google Lighthouse](lighthouse-testing/initial-test-landing-page-web.png)
+
+After 
+![Screenshot of test results using Google Lighthouse](lighthouse-testing/final-test-landing-page-web.png)
+
+### Further Testing
+
+- 
