@@ -45,7 +45,7 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
             
     c. As a first time visitor, I want to look for previous products created to ensure that using this company is the
     right decision, I would expect to find these not only through social media links but also a gallery page. Also
-            providing customer testimonials would enhance this.
+    providing customer testimonials would enhance this.
 
 - Returning Visitor Goals
 
@@ -56,17 +56,14 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
     form. This is in case of needing to alter my order, or to request an update.
 
     c. As a returning visitor, I want to be able to find out further information about the company and brand. This
-    included new products, design and background history.
+    includes new products, design and background history.
 
 - Frequent Visitor Goals
 
     a. As a frequent visitor, I want to easily be able to sign up to a newsletter so that I always find out about 
     upcoming changes/information via email.
 
-    b. As a frequent visitor, I want to be able to create an account so that my order history and details are easily 
-    accessed for use in future orders.
-
-    c. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
+    b. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
 
 ## User Centered Design
@@ -253,6 +250,18 @@ and was designed in a clean, and simple way that aesthetically works well but al
 11. [jQuery](https://getbootstrap.com/docs/4.5/getting-started/introduction/) 
     - The Bootstrap version 4.5 used for this project requires jQuery for certain elements, in my project this was needed for the collapsible navigation bar.
 
+12. [W3C Validator HTML](https://validator.w3.org/) & [W3C Validator CSS](https://jigsaw.w3.org/css-validator/)
+    - Both of these were used to test all the code for the project whilst working and for the finished website to check for valid HTML and CSS.
+
+13. [CSS Autoprefixer](https://autoprefixer.github.io/)
+    - This was used to add vendor prefixes to the CSS used in the project to increase cross browser compatibility.
+
+14. [BrowserStack](https://www.browserstack.com/)
+    - This application was used to test the functionality and appearance of the project on all main browsers.
+
+15. [TinyPNG](https://tinypng.com/)
+    - I used this to compress all the images used on the website to decrease the file size and increase website speed.
+
 ### Resources
 
 1. [Unsplash](https://unsplash.com/)
@@ -280,46 +289,7 @@ and was designed in a clean, and simple way that aesthetically works well but al
 7. [CSS Tricks](https://css-tricks.com/)
     - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
 
-8. [W3C Validator HTML](https://validator.w3.org/) & [W3C Validator CSS](https://jigsaw.w3.org/css-validator/)
-    - Both of these were used to test all the code for the project whilst working and for the finished website to check for valid HTML and CSS.
-
-9. [CSS Autoprefixer](https://autoprefixer.github.io/)
-    - This was used to add vendor prefixes to the CSS used in the project to increase cross browser compatibility.
-
-10. [BrowserStack](https://www.browserstack.com/)
-    - This application was used to test the functionality and appearance of the project on all main browsers.
-
 ## Testing
 
-### Syntax Testing
-
-Continually throughout the project I would test my code through both W3C validators to ensure everything was correct before moving on. Once the project was completed everything was ran 
-through once more to check, all code has passed with no errors as seen in below.
-
-[HTML Validation Results](#)
-
-[CSS Validation Results](validation-results/css-results.png)
-
-### User Story Testing
-
-#### First Time Visitor Goals Testing
-
-- *"As a first time visitor, I want to gain understanding of the purpose of the site and the intentions of the
-business. Including explanative information in case of not having a strong understanding of the product."*
-
-    - By using a logo that contains the word 'Surf' straight away gives the user an idea of what the company are involved in. The first image used
-    with the call to action button placed over the top with the header below 'Handcrafted Surfboards on the North Coast of Cornwall' has now informed the user
-    exactly what this companies purpose is. 
-
-    - For the user to find out more in depth information about the business they only have to scroll down to the first section on the landing page where the 'Why Us' section
-    will tell them everything about the company and brand.
-
-- *"As a first time visitor, I want to be able to easily find the product information that I visited the site for.
-Also have an enjoyable experience aesthetically and find using the websites features simple."*
-    
-    - Product information can be easily found on the landing page in the 'Why Us' and the 'Surfers Stories' testimonial sections. Further product information can be found on the 'Our Story'
-    page easily found in the navigation bar.
-
-    - The website has been kept simple and clean with good aesthetics, clear imagery, good flow, minimal colours and other possible distractions avoided such as overuse of icons and other elements.
-
+Find all information on the testing that has been carried out for this project [here.](TESTING.md)
 
