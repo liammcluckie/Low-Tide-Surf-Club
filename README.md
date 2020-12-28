@@ -235,13 +235,13 @@ and was designed in a clean, and simple way that aesthetically works well but al
 6. [Hover.css](https://ianlunn.github.io/Hover/)
     - To add a size increase to specific text links when the users cursor hovers over them.
 
-7. [Github](https://github.com/)
+7. [GitHub](https://github.com/)
     - Used to host the entire repository for the project.
 
-8. [Gitpod](https://gitpod.io/)
+8. [GitPod](https://gitpod.io/)
     - This was the platform used to build the entire project on.
     
-9. [Github Pages](https://pages.github.com/)
+9. [GitHub Pages](https://pages.github.com/)
     - Used to host the live version of the website as well as integral to aid in the de-bugging of the project.
 
 10. [Am I Responsive](http://ami.responsivedesign.is/)
@@ -261,6 +261,10 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 15. [TinyPNG](https://tinypng.com/)
     - I used this to compress all the images used on the website to decrease the file size and increase website speed.
+
+16. [Responsinator](http://www.responsinator.com/)
+    - Similar to [Am I responsive](http://ami.responsivedesign.is/) this is a web based application that allows a website to be checked an a large
+    amount of devices in portrait and landscape view.
 
 ### Resources
 
@@ -292,4 +296,28 @@ and was designed in a clean, and simple way that aesthetically works well but al
 ## Testing
 
 Find all information on the testing that has been carried out for this project [here.](TESTING.md)
+
+## Deployment 
+
+This project was coded using [GitPod](https://gitpod.io/) by using the following steps.
+
+1. Firstly a new repository was created and titled for this project.
+
+2. During and once the project was completed all commits and code was pushed to said repository.
+
+This project was then deployed using [GitHub Pages](https://pages.github.com/) by using the following steps.
+
+1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
+    - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
+
+2. You will find at the top of the repository, below the repository title, a list of links. Click on the 'Settings' option.
+    - Please note if you are viewing this on a smaller device you can locate the link in the same place but you will need to horizontally scroll to the left to view the link.
+
+3. Scroll down the page until you reach the 'GitHub Pages' section.
+
+4. Under the 'Source' label there is a dropdown box that is displaying 'None'. Click on this and change the source to 'Master Branch', the page will now automatically refresh.
+
+5. Once the page has finished loading scroll back down to the GitHub pages section and it will be displaying the published website [link.](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
+
+
 
