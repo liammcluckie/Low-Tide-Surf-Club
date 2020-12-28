@@ -130,8 +130,49 @@ Before
 ![Screenshot of test results using Google Lighthouse](lighthouse-testing/initial-test-landing-page-web.png)
 
 After 
+
 ![Screenshot of test results using Google Lighthouse](lighthouse-testing/final-test-landing-page-web.png)
 
 ### Further Testing
 
-- 
+- All functionality and features of the entire website have been thoroughly tested, this includes all links internal and external, as well
+as all forms.
+
+- The live site was viewed and reviewed in the [Code Institute](https://codeinstitute.net/) Slack channel for 'peer-code-review' where only a couple of
+minor changes were mentioned. One of these was to make the call to action button over the hero image on the landing page, and about page visible on 
+all screen sizes which has now been implemented in the final project.
+
+- My peers that are also studying on this course and started around a similar time also tested this project which found some responsiveness problems
+on Ipad Pro screen sizes, and xl desktop screen sizes which were then corrected.
+
+### Bugs 
+
+Listed below are the major bugs that I encountered whilst building this project and how I resolved them.
+
+1. One of the most time consuming issues in this project was ensuring that the responsiveness of the site worked well on the Ipad Pro device, I was attempting to fix any issues by 
+targeting what I believed to be the correct media query for this device. Through thorough research on various websites such as [w3 schools,](https://www.w3schools.com) [Stack Overflow,](https://stackoverflow.com/)
+and [CSS Tricks](https://css-tricks.com/) I tried various different media queries aimed at this device and still it did not target the website when used on this device. Finally, I took to
+the [Code Institute](https://codeinstitute.net/) tutor support where the first tutor also could not work out the problem, his colleague did very simply find the solution;
+
+````
+    @media only screen 
+  and (min-width: 1024px) and (max-width: 1026px)
+  and (max-height: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5)
+````
+
+By adding the (max-height) to the media query it fixed the bug allowing me to correct any responsive bugs being caused when the website was viewed on an Ipad Pro screen size.
+
+2. When it was suggested to me that keeping my call to action button visible on all devices I came across a bug that firstly didn't keep the button centered on various sized devices.
+Then even if it did happen to be aligned to the center when the hamburger navigation bar was opened the button would move and be placed over the links. By going back through some course
+documentation along with some online research on aligning and positioning I resolved the bug with the following code.
+
+````
+.cta {
+    position: relative;
+    top: 50%;
+    left: 50%;
+````
+3. When testing the live project on my mobile device I found that fixed background images appeared and functioned differently to how they did when inspecting using Google Developer Tools.
+I decided that they were not working well and after some research into CSS tricks with background images I created multiple media queries covering all devices, screen sizes, and screen
+orientation and set the background images on all pages to ````background-attachment: scroll;```` fixing the bug.
