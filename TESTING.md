@@ -13,7 +13,7 @@
 
 ### Syntax Testing
 
-Continually throughout the project I would test my code through both W3C validators to ensure everything was correct before moving on. Once the project was completed everything was ran 
+Continually throughout the project I would test my code through both the W3C validators to ensure syntax was correct before moving on. Once the project was completed all code was ran 
 through once more to check, all code has passed with no errors as seen in below.
 
 [HTML Validation Results](testing/html-validation.pdf)
@@ -29,7 +29,7 @@ through once more to check, all code has passed with no errors as seen in below.
 - *"As a first time visitor, I want to gain understanding of the purpose of the site and the intentions of the
     business. Including explanative information in case of not having a strong understanding of the product."*
 
-    - By using a logo that contains the word 'Surf' straight away gives the user an idea of what the company are involved in. The first image used
+    - By using a logo that contains the word 'Surf' straight away this gives the user an idea of what this company are involved in. The first image used
     with the call to action button placed over the top with the header below 'Handcrafted Surfboards on the North Coast of Cornwall' has now informed the user
     exactly what this companies purpose is. 
 
@@ -46,7 +46,7 @@ through once more to check, all code has passed with no errors as seen in below.
     - Product information can be easily found on the landing page in the 'Why Us' and the 'Surfers Stories' testimonial sections. Further product information can be found on the 'Our Story'
     page easily found in the navigation bar.
 
-    - The website has been kept simple and clean with good aesthetics, clear imagery, good flow, minimal colours and other possible distractions avoided such as overuse of icons and other elements.
+    - The website has been kept simple and clean with good aesthetics, clear imagery, flow, minimal colours and other possible distractions avoided such as overuse of icons and other elements.
 
 - *"As a first time visitor, I want to look for previous products created to ensure that using this company is the right decision, I would expect to find these not only through 
     social media links but also a gallery page. Also providing customer testimonials would enhance this."*
@@ -88,7 +88,7 @@ through once more to check, all code has passed with no errors as seen in below.
     includes new products, design and background history."*
 
     - All of this information can be found on the about/our story page which also includes imagery to add to the visual information regarding the production that a returning user
-    will want to know.
+    may want to know.
 
     ![Screenshot of content and imagery on 'Our Story' page displaying an image of a man building a surfboard](testing/goals-testing-eight.png)
 
@@ -100,7 +100,7 @@ through once more to check, all code has passed with no errors as seen in below.
     upcoming changes/information via email."*
 
     - This has been implemented in two ways, I decided to add a modal that opens when the 'Newsletter' link is clicked on the navigation bar. The reason I added the modal in this way
-    was so that if a first time user was not yet interested in signing up to a newsletter they did not have this interrupting their viewing of the website and negatively effecting their
+    was so that if a first time user was not yet interested in signing up to a newsletter they did not have this interrupting their viewing of the website, avoiding negatively effecting the
     user experience. 
 
     ![Screenshot of site navigation bar including all the links](testing/goals-testing-ten.png)
@@ -114,7 +114,7 @@ through once more to check, all code has passed with no errors as seen in below.
 - *"As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms."*
 
-    - With Instagram being the primary social media platform that this business aims at it's consumers this link features twice on the landing page. The first time it a eye catching header
+    - With Instagram being the primary social media platform that this business aims at it's consumers this link features twice on the landing page. The first time in an eye catching header
     link above the gallery section, then once again in the footer. All other social media platform links are also featured in the footer in a predominant way.
 
     ![Screenshot of text that links to the business instagram located above the gallery section](testing/goals-testing-twelve.png)
@@ -167,10 +167,10 @@ size for a web based site, and improving the SEO by adding additional ````Meta``
 as all forms.
 
 - The live site was viewed and reviewed in the [Code Institute](https://codeinstitute.net/) Slack channel for 'peer-code-review' where only a couple of
-minor changes were mentioned. One of these was to make the call to action button over the hero image on the landing page, and about page visible on 
-all screen sizes which has now been implemented in the final project.
+minor changes were mentioned. One of these was to make the call to action button over the hero image on the landing page and about/our story page visible on 
+all screen sizes which has now been implemented in the final version.
 
-- My peers that are also studying on this course and started around a similar time also tested this project which found some responsiveness problems
+- My peers that are also studying this course and started around a similar time also tested this project which found some responsiveness problems
 on Ipad Pro screen sizes, and xl desktop screen sizes which were then corrected.
 
 ---
