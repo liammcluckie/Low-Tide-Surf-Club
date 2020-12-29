@@ -14,7 +14,8 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 ## Table of contents
 ### 1. [UX](#ux)
 #### 1a. [User Stories](#user-stories)
-#### 1b. [User Centered Design](#user-centered-design)
+#### 1b. [Business Goals](#business-goals)
+#### 1c. [User Centered Design](#user-centered-design)
 - Strategy Plane
 - Scope Plane
 - Structure Plane
@@ -73,6 +74,22 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 
     b. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
+
+---
+
+### Business Goals
+
+- The primary goal of this business is for users to become customers by ordering custom, personalised surfboards through the ordering page on 
+the website.
+
+- Ideally all users that become customers will become regular and repeat customers since this is very much a trend within this industry. If a surfer 
+is happy with this sort of product they will typically use this manufacturer for an extended period whilst they undertake in the sport. 
+
+- Another focus of the business is to create a brand following on social media platforms, this will be achieved primarily through [Instagram](https://www.instagram.com/)
+by including multiple links in the project as well as a gallery section that will mimic the businesses social media page.
+
+- In addition to creating a following through social media there will also be an option for users to sign up to the brands newsletter which will provide further 
+information on the brand, products, and special offers further increasing the chances of users ordering the product.
 
 ## User Centered Design
 ### Strategy Plane
