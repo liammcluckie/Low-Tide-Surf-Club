@@ -46,14 +46,14 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 ### User Stories
 - First Time Visitor Goals
 
-    a. As a first time visitor, I want to gain understanding of the purpose of the site and the intentions of the
-    business. Including explanative information in case of not having a strong understanding of the product.
+    a. As a first time visitor, I want to gain understanding of the purpose for this site and the intentions of the
+    business. Including explanative information in case the user does not having a strong understanding of the product.
 
-    b. As a first time visitor, I want to be able to easily find the product information that I visited the site for.
-    Also have an enjoyable experience aesthetically and find using the websites features simple.
+    b. As a first time visitor, I want to easily find the product information that I visited the site for,
+    As well as have an enjoyable experience aesthetically and find using the websites features simple.
             
     c. As a first time visitor, I want to look for previous products created to ensure that using this company is the
-    right decision, I would expect to find these not only through social media links but also a gallery page. Also
+    right decision. I would expect to find these not only through social media links but also a gallery page,
     providing customer testimonials would enhance this.
 
 - Returning Visitor Goals
@@ -83,12 +83,12 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 the website.
 
 - Ideally all users that become customers will become regular and repeat customers since this is very much a trend within this industry. If a surfer 
-is happy with this sort of product they will typically use this manufacturer for an extended period whilst they undertake in the sport. 
+is happy with the product then they will typically use this manufacturer for an extended period whilst they undertake in the sport. 
 
 - Another focus of the business is to create a brand following on social media platforms, this will be achieved primarily through [Instagram](https://www.instagram.com/)
 by including multiple links in the project as well as a gallery section that will mimic the businesses social media page.
 
-- In addition to creating a following through social media there will also be an option for users to sign up to the brands newsletter which will provide further 
+- In addition to creating a following through social media there will also be an option for users to sign up to the companies newsletter which will provide further 
 information on the brand, products, and special offers further increasing the chances of users ordering the product.
 
 ## User Centered Design
@@ -99,7 +99,7 @@ and imagery that fits the rest of the sites aesthetics.
 
 - The most important goal of the site is for users to place an order for a surfboard manufactured to their exact requirements.
 
-- This site is mainly aimed at users who already partake in surfing as a hobby and have the required skill to warrent needing 
+- This site is mainly aimed at users who already partake in surfing as a hobby and have the required skill to warrant needing 
 this type of high end product. Regardless of this there will be enough information to aid users who perhaps don't have as much
 prior knowledge.
 
@@ -120,7 +120,7 @@ prior knowledge.
 
     - A form page that contains radio buttons, drop down lists and text inputs.
 
-- **The features that are of a lower priority that may not be including in this build of the site are;**
+- **The features that are of a lower priority that may not be including in the initial build of the site are;**
 
     - Closeable modal window that prompts the user to sign up for the newsletter.
 
@@ -136,10 +136,10 @@ prior knowledge.
 
 - This site will be structured using lots of imagery and short informative paragraphs. 
 
-- The layout will mainly be in thirds or in half on larger screen sizes to not overload the user visually 
+- The layout will mainly be in thirds or in half on smaller screen sizes to not overload the user visually 
 and to keep the functionality at optimum.
 
-- In order to direct the user to the most important areas of the website buttons and imagery for these
+- In order to direct the user to the most important areas of the website,buttons and imagery for these
 will be contained with the hero image that will be seen first.
 
 - To ensure the users experience when completing the form for ordering is smooth, this page will contain
@@ -160,9 +160,9 @@ minimal information and imagery to not distract the user.
 ## Design
 ### Colour Scheme
 
-- The main colours used will be monochrome and very simplistic, using ivory, charcoal and black.
+- The main colours used will be monochrome and very simplistic using ivory, charcoal, black and white.
 
-- Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
+- Reasoning behind these choices are that they add a sense of luxury to the brand and doesn't pull the attention 
 away from the imagery and purpose of the site.
 
 ---
@@ -171,7 +171,8 @@ away from the imagery and purpose of the site.
 
 - There will be two similar font types used throughout the website. The 'Comfortaa' font for the headings 
 with a Sans Serif fallback font if for any reason the font isn't imported correctly or a certain browser doesn't support it. 
-The font primarily used for paragraph text will be 'Inconsolata' with the same fallback font of  Sans Serif.
+The second font used is 'Inconsolata' which will feature minimally with the main purpose of the use to differentiate certain sections from 
+each other for example the footer text.
             
  - 'Comfortaa' is a clean, stylish, and aesthetically pleasing font that will tie in well with the styling of the rest of
 the website. This font works well for headings therefore creating consistency without effecting the sites style.
@@ -184,8 +185,8 @@ that it breaks up text sections and overall makes the website easy to read and a
 ### Imagery
 
 - The imagery will be very important on the website, I plan to use images to convey information about the company and
-products. The first thing visitors will see when the site loads will be a large jumbotron image with a call to action 
-button included. The reason for this is to immediately direct the user to the key order form page.
+products. The first thing users will see when the site loads will be a large hero image with a call to action 
+button included. The reason for this is to immediately direct the user to the key order page.
 
 - I also plan to use imagery on the modal that prompts visitors to sign up to the newsletter.
 
@@ -202,8 +203,8 @@ The de-saturation in colour will fit in with the rest of the simple monochrome c
 
 ### Logo
 
-- The logo for site was created using the same Sans Serif style font through an online application called 
-[Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
+- The logo for site was created using the a similar style font through an online application called 
+[Hatchful](https://hatchful.shopify.com/). It follows the same monochrome tones that the rest of the site is styled in 
 and was designed in a clean, and simple way that aesthetically works well but also follows visual hierarchy.
 
 ## Features
@@ -269,7 +270,7 @@ and was designed in a clean, and simple way that aesthetically works well but al
     and the form on the order page.
 
 5. [Google Fonts](https://fonts.google.com/)
-    - Used to import the two fonts used throughout the site Comfortaa and Inconsolata.
+    - Used to import the two fonts used throughout the site 'Comfortaa' and 'Inconsolata.'
 
 6. [Hover.css](https://ianlunn.github.io/Hover/)
     - To add a size increase to specific text links when the users cursor hovers over them.
@@ -278,7 +279,7 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - Used to host the entire repository for the project.
 
 8. [GitPod](https://gitpod.io/)
-    - This was the platform used to build the entire project on.
+    - This was the platform used to build the entire project.
     
 9. [GitHub Pages](https://pages.github.com/)
     - Used to host the live version of the website as well as integral to aid in the de-bugging of the project.
@@ -317,7 +318,7 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - The only other website used for imagery, the images displayed on the about/our story page were collected from here. 
 
 3. [Web Designer Depot](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
-    - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for my project. The changes that I made to the original example are; 
+    - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for this project. The changes that I made to the original example are; 
     Adding it into my navigation bar as a clickable link, adding a form section into the modal window itself, and changing the styling to fit the aesthetics of my website.
 
 4. [Stack Overflow](https://stackoverflow.com/)
@@ -342,7 +343,7 @@ Find all information on the testing that has been carried out for this project [
 
 ### GitHub Pages
 
-This project was coded using [GitPod](https://gitpod.io/) by using the following steps.
+This project was built using [GitPod.](https://gitpod.io/)
 
 1. Firstly a new repository was created and titled for this project.
 
@@ -358,7 +359,7 @@ This project was then deployed using [GitHub Pages](https://pages.github.com/) b
 
 3. Scroll down the page until you reach the 'GitHub Pages' section.
 
-4. Under the 'Source' label there is a dropdown box that is displaying 'None'. Click on this and change the source to 'Master Branch', the page will now automatically refresh.
+4. Under the 'Source' label there is a dropdown box displaying 'None'. Click on this and change the source to 'Master Branch', the page will now automatically refresh.
 
 5. Once the page has finished loading scroll back down to the GitHub pages section and it will be displaying the published website [link.](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
 
@@ -367,7 +368,7 @@ This project was then deployed using [GitHub Pages](https://pages.github.com/) b
 ### Forking the GitHub Repository
 
 This project is available to be copied and edited by other users without changing the repository on the original GitHub account. This can be
-done by forking this entire repository by following these steps.
+done by forking the entire repository by following these steps.
 
 1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
     - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
@@ -388,9 +389,9 @@ request to the project owner, details on how to do this can be found [here.](htt
 
 2. Located directly above the repository files and to the left of the green 'GitPod' button is a 'Code' button click on this.
 
-3. To clone the repository using HTTPS copy the link displaying when the HTTPS is underlined in red by clicking on the clipboard next to the link.
+3. To clone the repository using HTTPS copy the link displaying when the HTTPS button is underlined in red by clicking on the clipboard next to the link.
 
-4. Next open your own terminal in GitPod and change the current directory to where you want the cloned directory to go.
+4. Next open your own terminal in GitPod and change the current directory to where you want the cloned directory to be sent to.
 
 5. In the terminal type ````git clone```` and then paste the URL copied from the original repository and press enter. This will create your local clone.
 
@@ -407,11 +408,12 @@ in the below links;
 
     - I wanted to add a modal into my project but since this project was solely focusing on HTML and CSS I tried to avoid using a modal that required JavaScript. Upon research I came across
     this website that easily explained how this could be done. Initially I copied the code in exactly and then made some changes to better suit this project. The changes were as small style
-    alterations for colour, tone and size, I then added the link into my navigation bar, added a simple email form to the modal along with an image to enhance the user experience.
+    alterations for colour, tone and size, I then added the link into my navigation bar, added a simple email form to the modal along with an image to enhance the user experience, and removed
+    some of the code that caused the modal to open whenever the used clicked 'back' on the browser.
 
 - [Stack Overflow Hover Animation](https://stackoverflow.com/questions/47960948/link-grow-font-on-hover)
 
-    - Even though this project was already using the [Hover.css](https://ianlunn.github.io/Hover/) for CSS hovering animation I found that it caused bugs in some parts of the site causing
+    - Even though this project was already using the [Hover.css](https://ianlunn.github.io/Hover/) application I found that it caused bugs in some parts of the site causing
     the link/icon to not be aligned correctly. To fix this I copied in the code from the above link found on [Stack Overflow,](https://stackoverflow.com/) the code is commented in the CSS
     to be easily located.
 
@@ -431,10 +433,10 @@ All the written content for this site was created by the developer.
 ### Media
 
 - The [logo](assets/images/logo.png) for this website was generated using [Hatchful.](https://hatchful.shopify.com/) This works by inputting the name of the brand/business and by choosing certain
-style preferences produces a selection of different logo ideas.
+style preferences, this then produces a selection of different logo ideas.
 
 The majority of images used in this website were downloaded from [Unsplash,](https://unsplash.com/) to see all content available from the creators search the provided names on Unsplash. 
-Below in responding order to how they are displayed on the site when viewed on a desktop is a list of images;
+Below in corresponding order to how the images display on the site when viewed on a large screens is all the media used;
 
 - [Landing Page Hero Image](assets/images/hero-image.jpg) by Mathyas Kurman.
 
