@@ -11,6 +11,8 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 at desktop users due to the form process for placing an order being much easier to complete on this device. The site will be
 easy to navigate, enjoyable to use, and contain all the information needed regardless of the prior knowledge the user has.
 
+---
+
 ## Table of contents
 ### 1. [UX](#ux)
 #### 1a. [User Stories](#user-stories)
@@ -30,8 +32,14 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 - Frameworks, Libraries & Programs
 - Resources
 ### 5. [Testing](#testing)
+- [Testing document](TESTING.md)
 ### 6. [Deployment](#deployment)
+- GitHub Pages
+- Forking the Repository
+- Cloning the Repository
 ### 7. [Credits](#credits)
+
+---
 
 ## UX
 ### User Stories
@@ -66,6 +74,8 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
     b. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
 
+---
+
 ## User Centered Design
 ### Strategy Plane
 
@@ -80,7 +90,7 @@ prior knowledge.
 
 ### Scope Plane | Trade Off
 
-- The current features that are in the design plan and of the highest priority are;
+- **The current features that are in the design plan and of the highest priority are;**
 
     - Responsive navigation bar.
 
@@ -93,7 +103,7 @@ prior knowledge.
 
     - A form page that contains radio buttons, drop down lists and text inputs.
 
-- The features that are of a lower priority that may not be including in this build of the site are;
+- **The features that are of a lower priority that may not be including in this build of the site are;**
 
     - Closeable modal window that prompts the user to sign up for the newsletter.
 
@@ -102,8 +112,6 @@ prior knowledge.
     - A more generlised contact form option.
 
     - Navigation bar changing to a clickable burger icon on smaller screen sizes.
-
-    - Navigation links enlarging when hovered over with the users cursor.
 
 ### Structure Plane
 
@@ -127,6 +135,8 @@ minimal information and imagery to not distract the user.
 - [Website tablet view](wireframes/ltsc-tablet.pdf)
 
 - [Website mobile view](wireframes/ltsc-mobile.pdf)
+
+---
 
 ## Design
 ### Colour Scheme
@@ -171,6 +181,8 @@ The de-saturation in colour will fit in with the rest of the simple monochrome c
 [Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
 and was designed in a clean, and simple way that aesthetically works well but also follows visual hierarchy.
 
+---
+
 ## Features
 
 ### Existing Features
@@ -204,6 +216,8 @@ and was designed in a clean, and simple way that aesthetically works well but al
 - To add more pages to the site including a product and a blog page.
 
 - Add a carousel for displaying images.
+
+---
 
 ## Technologies Used
 
@@ -293,9 +307,13 @@ and was designed in a clean, and simple way that aesthetically works well but al
 7. [CSS Tricks](https://css-tricks.com/)
     - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
 
+---
+
 ## Testing
 
 Find all information on the testing that has been carried out for this project [here.](TESTING.md)
+
+---
 
 ## Deployment 
 
@@ -343,8 +361,96 @@ request to the project owner, details on how to do this can be found [here.](htt
 
 2. Located directly above the repository files and to the left of the green 'GitPod' button is a 'Code' button click on this.
 
-3. 
+3. To clone the repository using HTTPS copy the link displaying when the HTTPS is underlined in red by clicking on the clipboard next to the link.
 
+4. Next open your own terminal in GitPod and change the current directory to where you want the cloned directory to go.
 
+5. In the terminal type ````git clone```` and then paste the URL copied from the original repository and press enter. This will create your local clone.
 
+6. If you use GitHub desktop the instructions on how to clone to this can be found [here.](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
 
+---
+
+## Credits
+
+### Code
+
+There are two snippets of code that were copied and then altered to fit this project. This code has comments within the HTML and CSS to be easily found, and the original code can be found 
+in the below links;
+
+- [Web Designer Depot](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
+
+    - I wanted to add a modal into my project but since this project was solely focusing on HTML and CSS I tried to avoid using a modal that required JavaScript. Upon research I came across
+    this website that easily explained how this could be done. Initially I copied the code in exactly and then made some changes to better suit this project. The changes were as small style
+    alterations for colour, tone and size, I then added the link into my navigation bar, added a simple email form to the modal along with an image to enhance the user experience.
+
+- [Stack Overflow Hover Animation](https://stackoverflow.com/questions/47960948/link-grow-font-on-hover)
+
+    - Even though this project was already using the [Hover.css](https://ianlunn.github.io/Hover/) for CSS hovering animation I found that it caused bugs in some parts of the site causing
+    the link/icon to not be aligned correctly. To fix this I copied in the code from the above link found on [Stack Overflow,](https://stackoverflow.com/) the code is commented in the CSS
+    to be easily located.
+
+- [CSS Autoprefixer](https://autoprefixer.github.io/)
+
+    - Once the main build of the project was completed all CSS was ran through [CSS Autoprefixer](https://autoprefixer.github.io/) to improve browser compatibility. The altered code was then 
+    copied into the CSS document.
+
+### Content
+
+All the written content for this site was created by the developer.
+
+### Media
+
+- The [logo](assets/images/logo.png) for this website was generated using [Hatchful.](https://hatchful.shopify.com/) This works by inputting the name of the brand/business and by choosing certain
+style preferences produces a selection of different logo ideas.
+
+The majority of images used in this website were downloaded from [Unsplash,](https://unsplash.com/) to see all content available from the creators search the provided names on Unsplash. 
+Below in responding order to how they are displayed on the site when viewed on a desktop is a list of images;
+
+- [Landing Page Hero Image](assets/images/hero-image.jpg) by Mathyas Kurman.
+
+- [Newsletter Modal Image](assets/images/modal-image.jpg) by Nicolas Pereyra.
+
+- [Landing Page Second Background Image](assets/images/testimonial-main-image.jpg) by Will Suddret.
+
+- [Rosie Carter Testimonial Image](assets/images/testimonial-image-one.jpg) by Manny Moreno.
+
+- [Jasper Pritchard Testimonial Image](assets/images/testimonial-image-two.jpg) by Seth Doyle.
+
+- [Mitch Atkinson Testimonial Image](assets/images/testimonial-image-three.jpg) by Florencia Viadana.
+
+- [Gallery Image One](assets/images/gallery-image-one.jpg) by Dendy Darma.
+
+- [Gallery Image Two](assets/images/gallery-image-two.jpg) by Joschko Hammer.
+
+- [Gallery Image Three](assets/images/gallery-image-three.jpg) by Michael Shannon.
+
+- [Gallery Image Four](assets/images/gallery-image-four.jpg) by Jess Vide.
+
+- [Gallery Image Five](assets/images/gallery-image-five.jpg) by Spencer Watson.
+
+---
+
+- [Form/Ordering Page Hero Image](assets/images/form-hero-image.jpg) by Joao Ferreira.
+
+- [Form/Ordering Page Second Background Image](assets/images/form-bottom-image.jpg) by Jamison McAndie.
+
+---
+
+- [About/Our Story Page Hero Image](assets/images/about-hero-image.jpg) by Jamie Curd.
+
+- [About/Our Story Page Image One](assets/images/about-image-one.jpg) by Wave Break Media *downloaded from [Freepik.](https://www.freepik.com/)*
+
+- [About/Our Story Page Image Two](assets/images/about-image-Two.jpg) by Wave Break Media *downloaded from [Freepik.](https://www.freepik.com/)*
+
+- [About/Our Story Page Image Three](assets/images/about-image-three.jpg) by Viklund Visuals.
+
+- [About/Our Story Page Second Background Image](assets/images/about-bottom-image.jpg) by Wave Break Media.
+
+### Acknowledgements
+
+- My mentor Precious for providing feedback and making valuable suggestions throughout this project.
+
+- The [Code Institute]https://codeinstitute.net/ tutor support for helping with one of my most time consuming bugs.
+
+- The British and Cornish surf community for providing inspiration for this project.
