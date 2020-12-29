@@ -11,8 +11,6 @@ based in Cornwall, UK. The site will be responsive and accessible on all devices
 at desktop users due to the form process for placing an order being much easier to complete on this device. The site will be
 easy to navigate, enjoyable to use, and contain all the information needed regardless of the prior knowledge the user has.
 
----
-
 ## Table of contents
 ### 1. [UX](#ux)
 #### 1a. [User Stories](#user-stories)
@@ -38,8 +36,10 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 - Forking the Repository
 - Cloning the Repository
 ### 7. [Credits](#credits)
-
----
+- Code
+- Content
+- Media
+- Acknowledgements
 
 ## UX
 ### User Stories
@@ -74,8 +74,6 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
     b. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
 
----
-
 ## User Centered Design
 ### Strategy Plane
 
@@ -87,6 +85,8 @@ and imagery that fits the rest of the sites aesthetics.
 - This site is mainly aimed at users who already partake in surfing as a hobby and have the required skill to warrent needing 
 this type of high end product. Regardless of this there will be enough information to aid users who perhaps don't have as much
 prior knowledge.
+
+---
 
 ### Scope Plane | Trade Off
 
@@ -113,6 +113,8 @@ prior knowledge.
 
     - Navigation bar changing to a clickable burger icon on smaller screen sizes.
 
+---
+
 ### Structure Plane
 
 - This site will be structured using lots of imagery and short informative paragraphs. 
@@ -126,6 +128,8 @@ will be contained with the hero image that will be seen first.
 - To ensure the users experience when completing the form for ordering is smooth, this page will contain
 minimal information and imagery to not distract the user.
 
+---
+
 ### Skeleton Plane
 
 #### Wireframes
@@ -136,8 +140,6 @@ minimal information and imagery to not distract the user.
 
 - [Website mobile view](wireframes/ltsc-mobile.pdf)
 
----
-
 ## Design
 ### Colour Scheme
 
@@ -145,6 +147,8 @@ minimal information and imagery to not distract the user.
 
 - Reasoning behind these choices are that they add a sense of luxury to the brand and don't pull the attention 
 away from the imagery and purpose of the site.
+
+---
 
 ### Typography
 
@@ -157,6 +161,8 @@ the website. This font works well for headings therefore creating consistency wi
 
 - 'Inconsolata' is not to dissimilar from 'Comfortaa' so again it creates consistency, however, there is enough of a difference
 that it breaks up text sections and overall makes the website easy to read and aesthetically pleasing.
+
+---
 
 ### Imagery
 
@@ -175,13 +181,13 @@ consistent.
 - The imagery used will be de-saturated in colour and the main focal will be on the products and lifestyle based around these. 
 The de-saturation in colour will fit in with the rest of the simple monochrome colours used throughout the rest of the website.
 
+---
+
 ### Logo
 
 - The logo for site was created using the same Sans Serif style font through an online application called 
 [Hatchful](https://hatchful.shopify.com/). It follows the same greyscale color that the rest of the site is styled in 
 and was designed in a clean, and simple way that aesthetically works well but also follows visual hierarchy.
-
----
 
 ## Features
 
@@ -205,6 +211,8 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 - Card containers used on Surfers Stories page to display information in a visually appealing way.
 
+---
+
 ### Future Features
 
 - A general contact form to be added either in a modal or a separate page.
@@ -217,8 +225,6 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 - Add a carousel for displaying images.
 
----
-
 ## Technologies Used
 
 ### Syntax
@@ -226,6 +232,8 @@ and was designed in a clean, and simple way that aesthetically works well but al
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+---
 
 ### Frameworks, Libraries & Programs 
 
@@ -280,6 +288,8 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - Similar to [Am I responsive](http://ami.responsivedesign.is/) this is a web based application that allows a website to be checked an a large
     amount of devices in portrait and landscape view.
 
+---
+
 ### Resources
 
 1. [Unsplash](https://unsplash.com/)
@@ -307,13 +317,9 @@ and was designed in a clean, and simple way that aesthetically works well but al
 7. [CSS Tricks](https://css-tricks.com/)
     - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
 
----
-
 ## Testing
 
 Find all information on the testing that has been carried out for this project [here.](TESTING.md)
-
----
 
 ## Deployment 
 
@@ -339,6 +345,8 @@ This project was then deployed using [GitHub Pages](https://pages.github.com/) b
 
 5. Once the page has finished loading scroll back down to the GitHub pages section and it will be displaying the published website [link.](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
 
+---
+
 ### Forking the GitHub Repository
 
 This project is available to be copied and edited by other users without changing the repository on the original GitHub account. This can be
@@ -354,6 +362,8 @@ done by forking this entire repository by following these steps.
 4. If any suggestions, improvements or changes have been made that you would wish to share to improve the original site you can then submit a pull
 request to the project owner, details on how to do this can be found [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
+---
+
 ### Making a Local Clone
 
 1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
@@ -368,8 +378,6 @@ request to the project owner, details on how to do this can be found [here.](htt
 5. In the terminal type ````git clone```` and then paste the URL copied from the original repository and press enter. This will create your local clone.
 
 6. If you use GitHub desktop the instructions on how to clone to this can be found [here.](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
-
----
 
 ## Credits
 
@@ -395,9 +403,13 @@ in the below links;
     - Once the main build of the project was completed all CSS was ran through [CSS Autoprefixer](https://autoprefixer.github.io/) to improve browser compatibility. The altered code was then 
     copied into the CSS document.
 
+---
+
 ### Content
 
 All the written content for this site was created by the developer.
+
+---
 
 ### Media
 
@@ -447,10 +459,12 @@ Below in responding order to how they are displayed on the site when viewed on a
 
 - [About/Our Story Page Second Background Image](assets/images/about-bottom-image.jpg) by Wave Break Media.
 
+---
+
 ### Acknowledgements
 
 - My mentor Precious for providing feedback and making valuable suggestions throughout this project.
 
-- The [Code Institute]https://codeinstitute.net/ tutor support for helping with one of my most time consuming bugs.
+- The [Code Institute](https://codeinstitute.net/) tutor support for helping with one of my most time consuming bugs.
 
 - The British and Cornish surf community for providing inspiration for this project.
