@@ -1,3 +1,16 @@
+## Testing Table of Contents
+### 1. [Syntax Testing](#syntax-testing)
+### 2. [User Story Testing](#user-story-testing)
+- [First Time Visitor Goals Testing](#first-time-visitor-goals-testing)
+- [Returning Visitor Goals Testing](#returning-visitor-goals-testing)
+- [Frequent Visitor Goals Testing](#frequent-visitor-goals-testing)
+### 3. [Browser Compatibility and Device Responsiveness Testing](#browser-compatibility-and-device-responsiveness-testing)
+### 4. [Google Lighthouse Testing](#google-lighthouse-testing)
+### 5. [Further Testing](#further-testing)
+### 6. [Bugs](#bugs)
+
+---
+
 ### Syntax Testing
 
 Continually throughout the project I would test my code through both W3C validators to ensure everything was correct before moving on. Once the project was completed everything was ran 
@@ -6,6 +19,8 @@ through once more to check, all code has passed with no errors as seen in below.
 [HTML Validation Results](testing/html-validation.pdf)
 
 [CSS Validation Results](testing/css-results.png)
+
+---
 
 ### User Story Testing
 
@@ -49,6 +64,8 @@ through once more to check, all code has passed with no errors as seen in below.
 
     ![Screenshot of three testimonials from previous customers with a head shot image of each, one female and two males](testing/goals-testing-five.png)
 
+---
+
 #### Returning Visitor Goals Testing
 
 - *"As a returning visitor, I want to be able to easily order a product custom to my specifications in a
@@ -75,6 +92,8 @@ through once more to check, all code has passed with no errors as seen in below.
 
     ![Screenshot of content and imagery on 'Our Story' page displaying an image of a man building a surfboard](testing/goals-testing-eight.png)
 
+---
+
 #### Frequent Visitor Goals Testing
 
 - *"As a frequent visitor, I want to easily be able to sign up to a newsletter so that I always find out about 
@@ -100,6 +119,8 @@ through once more to check, all code has passed with no errors as seen in below.
 
     ![Screenshot of text that links to the business instagram located above the gallery section](testing/goals-testing-twelve.png)
 
+---
+
 ### Browser Compatibility and Device Responsiveness Testing
 
 This project was continually tested on various devices and screen sizes throughout the project by using Google Chrome Developer Tools. It was also tested in real time through my own personal
@@ -118,6 +139,8 @@ This table below shows how all the projects pages responded on different device 
 
 ![Screenshot of a table that displays various devices and browsers and how this project appeared when tested](testing/browser-test.png)
 
+---
+
 ### Google Lighthouse Testing
 
 Once the main build of this project was completed a test for mobile and web was carried out for all pages using Google Developer Tools Lighthouse application. Using the report I then 
@@ -125,13 +148,18 @@ went through the project and made as many recommended alterations as possible to
 
 Below are the before and after results for the landing page on web view. To see before and after results for all pages on [mobile](lighthouse-mobile/lighthouse-mobile-table.png) or [web](lighthouse-web/lighthouse-web-table.png) please follow the links.
 
-Before
+**Before**
 
 ![Screenshot of test results using Google Lighthouse](lighthouse-testing/initial-test-landing-page-web.png)
 
-After 
+**After** 
 
 ![Screenshot of test results using Google Lighthouse](lighthouse-testing/final-test-landing-page-web.png)
+
+The improvements made to the project to improve Lighthouse scores were removing unnecessary code, compressing all images using [TinyPNG](https://tinypng.com/) to make them a more suitable 
+size for a web based site, and improving the SEO by adding additional ````Meta```` tags and content such as project descriptions for all pages, keywords and copyright.
+
+---
 
 ### Further Testing
 
@@ -144,6 +172,8 @@ all screen sizes which has now been implemented in the final project.
 
 - My peers that are also studying on this course and started around a similar time also tested this project which found some responsiveness problems
 on Ipad Pro screen sizes, and xl desktop screen sizes which were then corrected.
+
+---
 
 ### Bugs 
 
