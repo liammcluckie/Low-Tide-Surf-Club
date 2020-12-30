@@ -1,6 +1,6 @@
 # Low Tide Surf Club | Custom Surfboards Website
 
-[View live project here](https://liammcluckie.github.io/MS1-Custom-Surfboards/index.html)
+[View live project here](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
 
 ![Images of landing page shown on multiple devices](assets/images/ltsc-responsive.png)
 
