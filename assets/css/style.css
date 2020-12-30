@@ -583,10 +583,6 @@ footer i {
         background-attachment: scroll;
     }
 
-    footer {
-        height: 33rem;
-    }
-
     .our-story-heading {
         margin-bottom: 1rem;
     }
@@ -602,11 +598,6 @@ footer i {
 }
 
 @media (min-width: 280px) and (max-width: 812px) {
-
-    footer {
-        height: 35rem;
-    }
-
     footer i {
         letter-spacing: 2px;
         margin-right: 25px;
@@ -617,15 +608,18 @@ footer i {
     }
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
-    footer {
-        height: 41rem;
-    }
-}
-
 @media (min-width: 1025px) {
     .subscribe-footer {
         display: none;
+    }
+}
+
+@media only screen 
+and (min-device-width: 280px)
+and (max-device-width: 736px)
+and (orientation: landscape) {
+    #modal-hide {
+        display: none!important;
     }
 }
 
@@ -637,10 +631,6 @@ and (max-height: 1366px)
 and (-webkit-min-device-pixel-ratio: 1.5) {
     #modal-hide {
         display: none!important;
-    }
-
-    footer {
-        height: 28rem;
     }
 
     footer i {
