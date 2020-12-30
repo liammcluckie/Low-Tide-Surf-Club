@@ -29,7 +29,6 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 ### 4. [Technologies Used](#technologies-used)
 - Syntax 
 - Frameworks, Libraries & Programs
-- Resources
 ### 5. [Testing](#testing)
 - [Testing document](TESTING.md)
 ### 6. [Deployment](#deployment)
@@ -37,6 +36,7 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 - Forking the Repository
 - Cloning the Repository
 ### 7. [Credits](#credits)
+- Resources
 - Code
 - Content
 - Media
@@ -237,6 +237,8 @@ and was designed in a clean, and simple way that aesthetically works well but al
 
 - Customer account log-in to be added to nav bar.
 
+- Add a Google images map to the footer displaying the business location.
+
 - For all forms to be made functional using correct syntax.
 
 - To add more pages to the site including a product and a blog page.
@@ -248,8 +250,10 @@ and was designed in a clean, and simple way that aesthetically works well but al
 ### Syntax
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - HTML5 is a markup language used for structuring and presenting content on the internet.
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
+    - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
 ---
 
@@ -306,35 +310,6 @@ and was designed in a clean, and simple way that aesthetically works well but al
     - Similar to [Am I responsive](http://ami.responsivedesign.is/) this is a web based application that allows a website to be checked an a large
     amount of devices in portrait and landscape view.
 
----
-
-### Resources
-
-1. [Unsplash](https://unsplash.com/)
-    - The majority of the imagery on the site was collected from here. Unsplash provide high resolution
-    images free to use on the internet.
-
-2. [Freepik](https://www.freepik.com/)
-    - The only other website used for imagery, the images displayed on the about/our story page were collected from here. 
-
-3. [Web Designer Depot](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
-    - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for this project. The changes that I made to the original example are; 
-    Adding it into my navigation bar as a clickable link, adding a form section into the modal window itself, and changing the styling to fit the aesthetics of my website.
-
-4. [Stack Overflow](https://stackoverflow.com/)
-    - Stack Overflow was used to research various programming techniques as well as problem solving a few issues and bugs encountered. One of the main techniques that was used on
-    my project found on Stack Overflow was making the font size of links increase in size smoothly and this was found [here](https://stackoverflow.com/questions/47960948/link-grow-font-on-hover).
-
-5. [Can Adapt](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
-    - Since I was using background images throughout my project I was unsure on the correct way to add alternative text to these for screen readers. I found all the information needed
-    on the Can Adapt site who specialise in web accessibility training.
-
-6. [w3 schools](https://www.w3schools.com/colors/colors_picker.asp)
-    - This educational website contains lots of useful information for programming, I primarily used it to select slightly lighter tones for my colour scheme.
-
-7. [CSS Tricks](https://css-tricks.com/)
-    - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
-
 ## Testing
 
 Find all information on the testing that has been carried out for this project [here.](TESTING.md)
@@ -349,7 +324,8 @@ This project was built using [GitPod.](https://gitpod.io/)
 
 2. During and once the project was completed all commits and code was pushed to said repository.
 
-This project was then deployed using [GitHub Pages](https://pages.github.com/) by using the following steps.
+This project was then deployed using [GitHub Pages](https://pages.github.com/) by using the following steps, the instructional images contain a black box
+around the specified area.
 
 1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
     - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
@@ -357,23 +333,31 @@ This project was then deployed using [GitHub Pages](https://pages.github.com/) b
 2. You will find at the top of the repository, below the repository title, a list of links. Click on the 'Settings' option.
     - Please note if you are viewing this on a smaller device you can locate the link in the same place but you will need to horizontally scroll to the left to view the link.
 
+    ![Screenshot of the top of the repository outline the settings button](deployment-screenshots/deployment-pages-1.png)
+
 3. Scroll down the page until you reach the 'GitHub Pages' section.
 
 4. Under the 'Source' label there is a dropdown box displaying 'None'. Click on this and change the source to 'Master Branch', the page will now automatically refresh.
 
+    ![Screenshot of GitHub pages section in settings outlining the source label options](deployment-screenshots/deployment-pages-2.png)
+
 5. Once the page has finished loading scroll back down to the GitHub pages section and it will be displaying the published website [link.](https://liammcluckie.github.io/Low-Tide-Surf-Club/)
+
+    ![Screenshot of published GitHub pages website link](deployment-screenshots/deployment-pages-3.png)
 
 ---
 
 ### Forking the GitHub Repository
 
 This project is available to be copied and edited by other users without changing the repository on the original GitHub account. This can be
-done by forking the entire repository by following these steps.
+done by forking the entire repository by following these steps, the instructional images contain a black box around the specified area.
 
 1. Log in to [GitHub](https://github.com/) and locate the [repository.](https://github.com/liammcluckie/Low-Tide-Surf-Club)
     - Alternatively you can locate the repository by searching liammcluckie/Low-Tide-Surf-Club on [GitHub.](https://github.com/)
 
 2. At the top of the repository page, below your own account icon you will find three buttons one of these is labelled 'Fork' click here.
+
+    ![Screenshot of the top of a GitHub page outlining the 'fork' button](deployment-screenshots/deployment-fork-1.png)
 
 3. You will now have a copy of the entire repository in your own GitHub account to edit and make changes too.
 
@@ -389,7 +373,11 @@ request to the project owner, details on how to do this can be found [here.](htt
 
 2. Located directly above the repository files and to the left of the green 'GitPod' button is a 'Code' button click on this.
 
+    ![Screenshot of a GitHub repository outlining the 'code' button](deployment-screenshots/deployment-clone-1.png)
+
 3. To clone the repository using HTTPS copy the link displaying when the HTTPS button is underlined in red by clicking on the clipboard next to the link.
+
+    ![Screenshot of when the 'clone' button is clicked in a GitHub repository outlining the HTTPS copy link](deployment-screenshots/deployment-clone-2.png)
 
 4. Next open your own terminal in GitPod and change the current directory to where you want the cloned directory to be sent to.
 
@@ -398,6 +386,33 @@ request to the project owner, details on how to do this can be found [here.](htt
 6. If you use GitHub desktop the instructions on how to clone to this can be found [here.](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
 
 ## Credits
+
+### Resources
+
+1. [Unsplash](https://unsplash.com/)
+    - The majority of the imagery on the site was collected from here. Unsplash provide high resolution
+    images free to use on the internet.
+
+2. [Freepik](https://www.freepik.com/)
+    - The only other website used for imagery, the images displayed on the about/our story page were collected from here. 
+
+3. [Web Designer Depot](https://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
+    - I used this example on how to create a pop-up modal window only using HTML and CSS to design my own to use for this project.
+
+4. [Stack Overflow](https://stackoverflow.com/)
+    - Stack Overflow was used to research various programming techniques as well as problem solving a few issues and bugs encountered.
+
+5. [Can Adapt](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+    - Since I was using background images throughout my project I was unsure on the correct way to add alternative text to these for screen readers. I found all the information needed
+    on the Can Adapt site who specialise in web accessibility training.
+
+6. [w3 schools](https://www.w3schools.com/colors/colors_picker.asp)
+    - This educational website contains lots of useful information for programming, I primarily used it to select slightly lighter tones for my colour scheme.
+
+7. [CSS Tricks](https://css-tricks.com/)
+    - Similar to other resources used CSS tricks provided small amounts of general knowledge to help with the CSS for this project.
+
+---
 
 ### Code
 
@@ -426,7 +441,10 @@ in the below links;
 
 ### Content
 
-All the written content for this site was created by the developer.
+- All the written content for this site was created by the developer.
+
+- The short description for the syntax used was taken from [Wikipedia.](https://en.wikipedia.org/wiki/Main_Page)
+
 
 ---
 
