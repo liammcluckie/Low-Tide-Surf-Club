@@ -371,7 +371,7 @@ body, html {
     line-height: 30px;
 }
 
-.our-story-img {
+.our-story-img, .our-story-img-hide {
     margin-bottom: 3rem;
 }
 
@@ -590,6 +590,15 @@ footer i {
     .our-story-heading {
         margin-bottom: 1rem;
     }
+
+    .our-story-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+    -webkit-box-align:center;
+        -ms-flex-align:center;
+            align-items:center;
+    }
 }
 
 @media (min-width: 280px) and (max-width: 812px) {
@@ -648,5 +657,18 @@ and (-webkit-min-device-pixel-ratio: 1.5) {
 
     .our-story-heading {
         margin-bottom: 2em;;
+    }
+
+   .our-story-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+    -webkit-box-align:center;
+        -ms-flex-align:center;
+            align-items:center;
+    }
+
+    .our-story-img-hide {
+        display: none!important;
     }
 }
