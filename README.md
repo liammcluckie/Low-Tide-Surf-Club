@@ -47,14 +47,14 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
 - First Time Visitor Goals
 
     a. As a first time visitor, I want to gain understanding of the purpose for this site and the intentions of the
-    business. Including explanative information in case the user does not having a strong understanding of the product.
+    business, there should be explanative information in case the user does not having a strong understanding of the product.
 
-    b. As a first time visitor, I want to easily find the product information that I visited the site for,
-    As well as have an enjoyable experience aesthetically and find using the websites features simple.
+    b. As a first time visitor, I want to easily find out about products that I have visited this site for.
             
     c. As a first time visitor, I want to look for previous products created to ensure that using this company is the
-    right decision. I would expect to find these not only through social media links but also a gallery page,
-    providing customer testimonials would enhance this.
+    right decision. 
+    
+    d. As a first time visitor, the website providing customer great testimonials would enhance my interest in using this company.
 
 - Returning Visitor Goals
 
@@ -62,18 +62,18 @@ easy to navigate, enjoyable to use, and contain all the information needed regar
     reasonably quick manor.
 
     b. As a returning visitor, I want to be able to find alternative ways to contact the company other than the order
-    form. This is in case of needing to alter my order, or to request an update.
+    form. 
 
-    c. As a returning visitor, I want to be able to find out further information about the company and brand. This
-    includes new products, design and background history.
+    c. As a returning visitor, I want to be able to find out further information about the company and brand. 
 
 - Frequent Visitor Goals
 
-    a. As a frequent visitor, I want to easily be able to sign up to a newsletter so that I always find out about 
-    upcoming changes/information via email.
+    a. As a frequent visitor, I want to easily be able to sign up to a newsletter or blog.
 
     b. As a frequent visitor, I want to be able to find further social media links to be able to follow on 
     multiple platforms.
+
+    c. As a frequent visitor, I would like to see a gallery section including lifestyle and product images.
 
 ---
 
