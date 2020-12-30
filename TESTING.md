@@ -146,15 +146,15 @@ This table below shows how all the projects pages responded on different device 
 Once the main build of this project was completed a test for mobile and web was carried out for all pages using Google Developer Tools Lighthouse application. Using the report I then 
 went through the project and made as many recommended alterations as possible to improve the website inline with the areas that lighthouse focuses on.
 
-Below are the before and after results for the landing page on web view. To see before and after results for all pages on [mobile](lighthouse-mobile/lighthouse-mobile-table.png) or [web](lighthouse-web/lighthouse-web-table.png) please follow the links.
+Below are the before and after results for the landing page on web view. To see before and after results for all pages on [mobile](testing/lighthouse-mobile/lighthouse-mobile-table.png) or [web](testing/lighthouse-web/lighthouse-web-table.png) please follow the links.
 
 **Before**
 
-![Screenshot of test results using Google Lighthouse](lighthouse-testing/initial-test-landing-page-web.png)
+![Screenshot of test results using Google Lighthouse](testing/lighthouse-testing/initial-test-landing-page-web.png)
 
 **After** 
 
-![Screenshot of test results using Google Lighthouse](lighthouse-testing/final-test-landing-page-web.png)
+![Screenshot of test results using Google Lighthouse](testing/lighthouse-testing/final-test-landing-page-web.png)
 
 The improvements made to the project to improve Lighthouse scores were removing unnecessary code, compressing all images using [TinyPNG](https://tinypng.com/) to make them a more suitable 
 size for a web based site, and improving the SEO by adding additional ````Meta```` tags and content such as project descriptions for all pages, keywords and copyright.
